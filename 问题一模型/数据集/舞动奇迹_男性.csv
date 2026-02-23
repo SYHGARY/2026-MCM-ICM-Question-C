@@ -1,0 +1,11 @@
+﻿id,celebrity_name,session1_judge_score,session1_fans_vote,session1_total_score,session1_rank,session1_eliminated,session4_judge_score,session4_fans_vote,session4_total_score,session4_rank,session4_eliminated,session5_judge_score,session5_fans_vote,session5_total_score,session5_rank,session5_eliminated,session6_judge_score,session6_fans_vote,session6_total_score,session6_rank,session6_eliminated,session7_judge_score,session7_fans_vote,session7_total_score,session7_rank,session7_eliminated,session8_judge_score,session8_fans_vote,session8_total_score,session8_rank,session8_eliminated,session9_judge_score,session9_fans_vote,session9_total_score,session9_rank,session9_eliminated
+1,黄长兴,8.33,8.49,16.82,8,0,8,8.86,16.86,8,0,9,9.61,18.61,4,0,8.67,9.66,18.33,4,0,9,9.65,18.65,7,0,7.67,9.41,17.08,6,1,,,,,
+2,李学庆,8.33,8.85,17.18,6,0,8.33,9.06,17.39,5,0,9,9.36,18.36,5,0,7.67,8.93,16.6,7,1,,,,,,,,,,,,,,,
+3,张杰,9,9.86,18.86,1,0,9,9.88,18.88,1,0,9.33,9.89,19.22,2,0,9,9.9,18.9,2,0,10,9.88,19.88,1,0,8.67,9.93,18.6,3,0,9.34,9.89,19.23,2,0
+4,吉杰,8.33,9.57,17.9,3,0,8.67,9.69,18.36,3,0,7.67,9.74,17.41,6,0,9,9.8,18.8,3,0,9.67,9.82,19.49,2,0,9.33,9.86,19.19,2,0,8.89,9.49,18.38,3,0
+5,谢天华,9,9.39,18.39,2,0,9.33,9.51,18.84,2,0,10,9.64,19.64,1,0,10,9.75,19.75,1,0,9.33,9.72,19.05,3,0,9.67,9.8,19.47,1,0,9.78,9.85,19.63,1,0
+6,袁伟豪,8,9.02,17.02,7,0,8.33,9.15,17.48,4,0,9,9.69,18.69,3,0,8,9.8,17.8,5,0,8.33,9.81,18.14,10,0,8.33,9.47,17.8,5,1,,,,,
+7,江嘉良,7,8.26,15.26,10,0,7,8.84,15.84,10,1,,,,,,,,,,,,,,,,,,,,,,,,,
+8,吴家乐,7.33,8.82,16.15,9,0,8,9.21,17.21,6,0,8,8.98,16.98,8,0,8,9.59,17.59,6,0,9.33,9.59,18.92,4,0,8.33,9.74,18.07,4,0,9.11,9.21,18.32,4,0
+9,周卫星,8.33,9.13,17.46,5,0,7.67,8.76,16.43,9,1,,,,,,,,,,,,,,,,,,,,,,,,,
+10,马德钟,8.33,9.51,17.84,4,0,7.67,9.44,17.11,7,0,8,9.29,17.29,7,0,7.33,8.97,16.3,8,1,,,,,,,,,,,,,,,
