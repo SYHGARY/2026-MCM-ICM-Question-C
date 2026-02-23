@@ -1,0 +1,1006 @@
+﻿season,week,pred_bottomk,actual_eliminated_list,match,bottom_k,score_col
+1,1,['Evander Holyfield'],,False,1,adjusted_score
+1,2,['Trista Sutter'],['Trista Sutter'],True,1,adjusted_score
+1,3,['Evander Holyfield'],['Evander Holyfield'],True,1,adjusted_score
+1,4,['Rachel Hunter'],['Rachel Hunter'],True,1,adjusted_score
+1,5,['Joey McIntyre'],,False,1,adjusted_score
+1,6,"[""John O'Hurley""]",,False,1,adjusted_score
+2,1,['Kenny Mayne'],['Kenny Mayne'],True,1,adjusted_score
+2,2,"[""Tatum O'Neal""]","[""Tatum O'Neal""]",True,1,adjusted_score
+2,3,['Master P'],['Giselle Fernandez'],False,1,adjusted_score
+2,4,['Master P'],['Master P'],True,1,adjusted_score
+2,5,['Tia Carrere'],['Tia Carrere'],True,1,adjusted_score
+2,6,['George Hamilton'],['George Hamilton'],True,1,adjusted_score
+2,7,['Jerry Rice'],['Lisa Rinna'],False,1,adjusted_score
+2,8,['Jerry Rice'],,False,1,adjusted_score
+3,1,['Tucker Carlson'],['Tucker Carlson'],True,1,adjusted_score
+3,2,['Jerry Springer'],['Shanna Moakler'],False,1,adjusted_score
+3,3,['Harry Hamlin'],['Harry Hamlin'],True,1,adjusted_score
+3,4,['Sara Evans'],['Vivica A. Fox'],False,1,adjusted_score
+3,5,['Jerry Springer'],['Willa Ford'],False,1,adjusted_score
+3,6,['Jerry Springer'],,False,1,adjusted_score
+3,7,['Jerry Springer'],['Jerry Springer'],True,1,adjusted_score
+3,8,['Monique Coleman'],['Monique Coleman'],True,1,adjusted_score
+3,9,['Joey Lawrence'],,False,1,adjusted_score
+3,10,['Emmitt Smith'],,False,1,adjusted_score
+4,1,['Clyde Drexler'],,False,1,adjusted_score
+4,2,['Clyde Drexler'],['Paulina Porizkova'],False,1,adjusted_score
+4,3,['Clyde Drexler'],['Shandi Finnessey'],False,1,adjusted_score
+4,4,['Leeza Gibbons'],['Leeza Gibbons'],True,1,adjusted_score
+4,5,['Clyde Drexler'],['Clyde Drexler'],True,1,adjusted_score
+4,6,['John Ratzenberger'],['Heather Mills'],False,1,adjusted_score
+4,7,['Billy Ray Cyrus'],['John Ratzenberger'],False,1,adjusted_score
+4,8,['Billy Ray Cyrus'],['Billy Ray Cyrus'],True,1,adjusted_score
+4,9,['Ian Ziering'],['Ian Ziering'],True,1,adjusted_score
+4,10,['Laila Ali'],,False,1,adjusted_score
+5,1,['Josie Maran'],['Josie Maran'],True,1,adjusted_score
+5,2,['Wayne Newton'],['Albert Reed'],False,1,adjusted_score
+5,3,['Wayne Newton'],['Wayne Newton'],True,1,adjusted_score
+5,4,['Floyd Mayweather Jr. '],['Floyd Mayweather Jr. '],True,1,adjusted_score
+5,5,['Mark Cuban'],['Mark Cuban'],True,1,adjusted_score
+5,6,['Jane Seymour'],['Sabrina Bryan'],False,1,adjusted_score
+5,7,['Jane Seymour'],['Jane Seymour'],True,1,adjusted_score
+5,8,['Cameron Mathison'],['Cameron Mathison'],True,1,adjusted_score
+5,9,['Marie Osmond'],['Jennie Garth'],False,1,adjusted_score
+5,10,['Marie Osmond'],,False,1,adjusted_score
+6,1,['Monica Seles'],,False,1,adjusted_score
+6,2,['Monica Seles'],"['Monica Seles', 'Penn Jillette']",True,1,adjusted_score
+6,3,['Steve Guttenberg'],['Steve Guttenberg'],True,1,adjusted_score
+6,4,['Adam Carolla'],['Adam Carolla'],True,1,adjusted_score
+6,5,['Priscilla Presley'],['Priscilla Presley'],True,1,adjusted_score
+6,6,['Marlee Matlin'],['Marlee Matlin'],True,1,adjusted_score
+6,7,['Shannon Elizabeth'],['Shannon Elizabeth'],True,1,adjusted_score
+6,8,['Marissa Jaret Winokur'],['Mario'],False,1,adjusted_score
+6,9,['Marissa Jaret Winokur'],['Marissa Jaret Winokur'],True,1,adjusted_score
+6,10,['Cristian de la Fuente'],,False,1,adjusted_score
+7,1,['Jeffrey Ross'],"['Jeffrey Ross', 'Ted McGinley']",True,1,adjusted_score
+7,2,['Kim Kardashian'],['Kim Kardashian'],True,1,adjusted_score
+7,3,['Cloris Leachman'],,False,1,adjusted_score
+7,4,['Rocco DiSpirito'],['Rocco DiSpirito'],True,1,adjusted_score
+7,5,['Toni Braxton'],['Toni Braxton'],True,1,adjusted_score
+7,6,['Cloris Leachman'],['Cloris Leachman'],True,1,adjusted_score
+7,7,['Susan Lucci'],['Susan Lucci'],True,1,adjusted_score
+7,8,['Maurice Greene'],['Maurice Greene'],True,1,adjusted_score
+7,9,['Cody Linley'],['Cody Linley'],True,1,adjusted_score
+7,10,['Warren Sapp'],,False,1,adjusted_score
+8,1,['Steve Wozniak'],,False,1,adjusted_score
+8,2,['Steve-O'],['Belinda Carlisle'],False,1,adjusted_score
+8,3,['Steve Wozniak'],['Denise Richards'],False,1,adjusted_score
+8,4,['Steve Wozniak'],"['Holly Madison', 'Steve Wozniak']",True,1,adjusted_score
+8,5,['Steve-O'],['David Alan Grier'],False,1,adjusted_score
+8,6,['Steve-O'],['Steve-O'],True,1,adjusted_score
+8,7,['Lawrence Taylor'],['Lawrence Taylor'],True,1,adjusted_score
+8,8,['Chuck Wicks'],['Chuck Wicks'],True,1,adjusted_score
+8,9,['Ty Murray'],"[""Lil' Kim""]",False,1,adjusted_score
+8,10,['Ty Murray'],['Ty Murray'],True,1,adjusted_score
+8,11,['Melissa Rycroft'],,False,1,adjusted_score
+9,1,['Ashley Hamiliton'],"['Ashley Hamiliton', 'Macy Gray']",True,1,adjusted_score
+9,2,['Kathy Ireland'],['Kathy Ireland'],True,1,adjusted_score
+9,3,['Michael Irvin'],['Debi Mazar'],False,1,adjusted_score
+9,4,['Michael Irvin'],['Chuck Liddell'],False,1,adjusted_score
+9,5,['Natalie Coughlin'],['Natalie Coughlin'],True,1,adjusted_score
+9,6,['Melissa Joan Hart'],"['Louie Vito', 'Melissa Joan Hart']",True,1,adjusted_score
+9,7,['Mark Dacascos'],"['Mark Dacascos', 'Michael Irvin']",True,1,adjusted_score
+9,8,['Aaron Carter'],['Aaron Carter'],True,1,adjusted_score
+9,9,['Joanna Krupa'],['Joanna Krupa'],True,1,adjusted_score
+9,10,['Kelly Osbourne'],,False,1,adjusted_score
+10,1,['Buzz Aldrin'],,False,1,adjusted_score
+10,2,['Buzz Aldrin'],['Shannen Doherty'],False,1,adjusted_score
+10,3,['Buzz Aldrin'],['Buzz Aldrin'],True,1,adjusted_score
+10,4,['Aiden Turner'],['Aiden Turner'],True,1,adjusted_score
+10,5,['Kate Gosselin'],['Kate Gosselin'],True,1,adjusted_score
+10,6,['Jake Pavelka'],['Jake Pavelka'],True,1,adjusted_score
+10,7,['Niecy Nash'],['Pamela Anderson'],False,1,adjusted_score
+10,8,['Niecy Nash'],['Niecy Nash'],True,1,adjusted_score
+10,9,['Chad Ochocinco'],['Chad Ochocinco'],True,1,adjusted_score
+10,10,['Erin Andrews'],,False,1,adjusted_score
+11,1,['David Hasselhoff'],['David Hasselhoff'],True,1,adjusted_score
+11,2,['Michael Bolton'],['Michael Bolton'],True,1,adjusted_score
+11,3,['Margaret Cho'],['Margaret Cho'],True,1,adjusted_score
+11,4,['The Situation'],['The Situation'],True,1,adjusted_score
+11,5,['Bristol Palin'],['Florence Henderson'],False,1,adjusted_score
+11,6,['Kurt Warner'],['Audrina Patridge'],False,1,adjusted_score
+11,7,['Bristol Palin'],['Rick Fox'],False,1,adjusted_score
+11,8,['Kurt Warner'],['Kurt Warner'],True,1,adjusted_score
+11,9,['Bristol Palin'],['Brandy'],False,1,adjusted_score
+11,10,['Bristol Palin'],,False,1,adjusted_score
+12,1,['Mike Catherwood'],,False,1,adjusted_score
+12,2,['Mike Catherwood'],['Mike Catherwood'],True,1,adjusted_score
+12,3,['Wendy Williams'],['Wendy Williams'],True,1,adjusted_score
+12,4,['Kendra Wilkinson'],['Sugar Ray Leonard'],False,1,adjusted_score
+12,5,['Petra Nemcova'],['Petra Nemcova'],True,1,adjusted_score
+12,6,['Chris Jericho'],['Chris Jericho'],True,1,adjusted_score
+12,7,['Kendra Wilkinson'],['Kendra Wilkinson'],True,1,adjusted_score
+12,8,['Ralph Macchio'],['Romeo'],False,1,adjusted_score
+12,9,['Ralph Macchio'],['Ralph Macchio'],True,1,adjusted_score
+12,10,['Kirstie Alley'],,False,1,adjusted_score
+13,1,['Metta World Peace (Ron)'],['Metta World Peace (Ron)'],True,1,adjusted_score
+13,2,['Chaz Bono'],['Elisabetta Canalis'],False,1,adjusted_score
+13,3,['Chaz Bono'],['Kristin Cavallari'],False,1,adjusted_score
+13,4,['Chynna Phillips'],['Chynna Phillips'],True,1,adjusted_score
+13,5,['Carson Kressley'],['Carson Kressley'],True,1,adjusted_score
+13,6,['Chaz Bono'],['Chaz Bono'],True,1,adjusted_score
+13,7,['David Arquette'],['David Arquette'],True,1,adjusted_score
+13,8,['Nancy Grace'],['Nancy Grace'],True,1,adjusted_score
+13,9,['Hope Solo'],['Hope Solo'],True,1,adjusted_score
+13,10,['Ricki Lake'],,False,1,adjusted_score
+14,1,['Martina Navratilova'],,False,1,adjusted_score
+14,2,['Martina Navratilova'],['Martina Navratilova'],True,1,adjusted_score
+14,3,['Jack Wagner'],['Jack Wagner'],True,1,adjusted_score
+14,4,['Sherri Sheperd'],['Sherri Sheperd'],True,1,adjusted_score
+14,5,['Gavin DeGraw'],['Gavin DeGraw'],True,1,adjusted_score
+14,6,['Gladys Knight'],['Gladys Knight'],True,1,adjusted_score
+14,7,['Melissa Gilbert'],['Jaleel White'],False,1,adjusted_score
+14,8,['Melissa Gilbert'],"['Melissa Gilbert', 'Roshon Fegan']",True,1,adjusted_score
+14,9,['Maria Menounos'],['Maria Menounos'],True,1,adjusted_score
+14,10,['Donald Driver'],,False,1,adjusted_score
+15,1,['Pamela Anderson'],['Pamela Anderson'],True,1,adjusted_score
+15,2,['Bristol Palin'],['Joey Fatone'],False,1,adjusted_score
+15,3,['Drew Lachey'],"['Drew Lachey', 'Helio Castroneves']",True,1,adjusted_score
+15,4,['Kirstie Alley'],['Bristol Palin'],False,1,adjusted_score
+15,5,['Kirstie Alley'],,False,1,adjusted_score
+15,6,['Emmitt Smith'],['Sabrina Bryan'],False,1,adjusted_score
+15,7,['Kirstie Alley'],,False,1,adjusted_score
+15,8,['Kirstie Alley'],"['Gilles Marini', 'Kirstie Alley']",True,1,adjusted_score
+15,9,['Emmitt Smith'],"['Apolo Anton Ohno', 'Emmitt Smith']",True,1,adjusted_score
+15,10,['Shawn Johnson'],,False,1,adjusted_score
+16,1,['D. L. Hughley'],,False,1,adjusted_score
+16,2,['Dorothy Hamill'],,False,1,adjusted_score
+16,3,['Wynonna Judd'],['Wynonna Judd'],True,1,adjusted_score
+16,4,['Lisa Vanderpump'],['Lisa Vanderpump'],True,1,adjusted_score
+16,5,['D. L. Hughley'],['D. L. Hughley'],True,1,adjusted_score
+16,6,['Victor Ortiz'],['Victor Ortiz'],True,1,adjusted_score
+16,7,['Andy Dick'],['Andy Dick'],True,1,adjusted_score
+16,8,['Sean Lowe'],['Sean Lowe'],True,1,adjusted_score
+16,9,['Ingo Rademacher'],['Ingo Rademacher'],True,1,adjusted_score
+16,10,['Alexandra Raisman'],['Alexandra Raisman'],True,1,adjusted_score
+17,1,['Bill Nye'],,False,1,adjusted_score
+17,2,['Keyshawn Johnson'],['Keyshawn Johnson'],True,1,adjusted_score
+17,3,['Bill Nye'],['Bill Nye'],True,1,adjusted_score
+17,4,['Valerie Harper'],['Valerie Harper'],True,1,adjusted_score
+17,5,['Leah Remini'],['Christina Milian'],False,1,adjusted_score
+17,6,['Bill Engvall'],,False,1,adjusted_score
+17,7,['Bill Engvall'],"['Nicole ""Snooki"" Polizzi']",False,1,adjusted_score
+17,8,['Bill Engvall'],['Brant Daugherty'],False,1,adjusted_score
+17,9,['Bill Engvall'],['Elizabeth Berkley Lauren'],False,1,adjusted_score
+17,10,['Leah Remini'],['Leah Remini'],True,1,adjusted_score
+17,11,['Bill Engvall'],['Bill Engvall'],True,1,adjusted_score
+18,1,['Billy Dee Williams'],,False,1,adjusted_score
+18,2,['Billy Dee Williams'],['Sean Avery'],False,1,adjusted_score
+18,3,['Drew Carey'],,False,1,adjusted_score
+18,4,['Candace Cameron Bure'],,False,1,adjusted_score
+18,5,['Drew Carey'],['Cody Simpson'],False,1,adjusted_score
+18,6,['Drew Carey'],['Drew Carey'],True,1,adjusted_score
+18,7,['NeNe Leakes'],['NeNe Leakes'],True,1,adjusted_score
+18,8,['Candace Cameron Bure'],['Danica McKellar'],False,1,adjusted_score
+18,9,['Candace Cameron Bure'],['Charlie White'],False,1,adjusted_score
+18,10,['Candace Cameron Bure'],['James Maslow'],False,1,adjusted_score
+19,1,['Lolo Jones'],['Lolo Jones'],True,1,adjusted_score
+19,2,['Tavis Smiley'],['Tavis Smiley'],True,1,adjusted_score
+19,3,['Randy Couture'],['Randy Couture'],True,1,adjusted_score
+19,4,['Michael Waltrip'],['Betsey Johnson'],False,1,adjusted_score
+19,5,['Michael Waltrip'],,False,1,adjusted_score
+19,6,['Tommy Chong'],['Jonathan Bennett'],False,1,adjusted_score
+19,7,['Michael Waltrip'],['Antonio Sabato Jr.'],False,1,adjusted_score
+19,8,['Michael Waltrip'],['Michael Waltrip'],True,1,adjusted_score
+19,9,['Tommy Chong'],['Lea Thompson'],False,1,adjusted_score
+19,10,['Tommy Chong'],['Tommy Chong'],True,1,adjusted_score
+19,11,['Bethany Mota'],['Bethany Mota'],True,1,adjusted_score
+20,1,['Charlotte McKinney'],,False,1,adjusted_score
+20,2,['Chris Soules'],['Redfoo'],False,1,adjusted_score
+20,3,['Charlotte McKinney'],['Charlotte McKinney'],True,1,adjusted_score
+20,4,['Michael Sam'],['Michael Sam'],True,1,adjusted_score
+20,5,['Robert Herjavec'],['Suzanne Somers'],False,1,adjusted_score
+20,6,['Patti LaBelle'],['Patti LaBelle'],True,1,adjusted_score
+20,7,['Robert Herjavec'],['Willow Shields'],False,1,adjusted_score
+20,8,['Robert Herjavec'],"['Chris Soules', 'Robert Herjavec']",True,1,adjusted_score
+20,9,['Noah Galloway'],['Nastia Liukin'],False,1,adjusted_score
+20,10,['Noah Galloway'],,False,1,adjusted_score
+21,1,['Chaka Khan'],,False,1,adjusted_score
+21,2,['Chaka Khan'],"['Chaka Khan', 'Victor Espinoza']",True,1,adjusted_score
+21,3,['Paula Deen'],,False,1,adjusted_score
+21,4,['Gary Busey'],['Gary Busey'],True,1,adjusted_score
+21,5,['Paula Deen'],,False,1,adjusted_score
+21,6,['Paula Deen'],['Paula Deen'],True,1,adjusted_score
+21,7,['Alek Skarlatos'],['Hayes Grier'],False,1,adjusted_score
+21,8,['Andy Grammer'],['Andy Grammer'],True,1,adjusted_score
+21,9,['Tamar Braxton'],['Alexa PenaVega'],False,1,adjusted_score
+21,10,['Alek Skarlatos'],,False,1,adjusted_score
+21,11,['Alek Skarlatos'],['Carlos PenaVega'],False,1,adjusted_score
+22,1,['Geraldo Rivera'],,False,1,adjusted_score
+22,2,['Geraldo Rivera'],['Geraldo Rivera'],True,1,adjusted_score
+22,3,['Mischa Barton'],['Mischa Barton'],True,1,adjusted_score
+22,4,['Marla Maples'],['Marla Maples'],True,1,adjusted_score
+22,5,['Antonio Brown'],,False,1,adjusted_score
+22,6,['Doug Flutie'],['Doug Flutie'],True,1,adjusted_score
+22,7,['Kim Fields'],"['Kim Fields', 'Von Miller']",True,1,adjusted_score
+22,8,['Wanya Morris'],['Jodie Sweetin'],False,1,adjusted_score
+22,9,['Antonio Brown'],"['Antonio Brown', 'Wanya Morris']",True,1,adjusted_score
+22,10,['Ginger Zee'],,False,1,adjusted_score
+23,1,['Rick Perry'],,False,1,adjusted_score
+23,2,['Rick Perry'],['Jake T. Austin'],False,1,adjusted_score
+23,3,['Rick Perry'],['Rick Perry'],True,1,adjusted_score
+23,4,['Babyface'],"['Babyface', 'Vanilla Ice']",True,1,adjusted_score
+23,5,['Amber Rose'],,False,1,adjusted_score
+23,6,['Amber Rose'],['Amber Rose'],True,1,adjusted_score
+23,7,['Maureen McCormick'],['Maureen McCormick'],True,1,adjusted_score
+23,8,['Marilu Henner'],['Ryan Lochte'],False,1,adjusted_score
+23,9,['Marilu Henner'],['Marilu Henner'],True,1,adjusted_score
+23,10,['Calvin Johnson Jr.'],['Terra Jole'],False,1,adjusted_score
+23,11,['Jana Kramer'],['Jana Kramer'],True,1,adjusted_score
+24,1,['Chris Kattan'],,False,1,adjusted_score
+24,2,['Chris Kattan'],['Chris Kattan'],True,1,adjusted_score
+24,3,['Charo'],['Charo'],True,1,adjusted_score
+24,4,['Mr. T'],['Mr. T'],True,1,adjusted_score
+24,5,['David Ross'],['Erika Jayne'],False,1,adjusted_score
+24,6,['Nick Viall'],['Heather Morris'],False,1,adjusted_score
+24,7,['Nick Viall'],"['Nancy Kerrigan', 'Nick Viall']",True,1,adjusted_score
+24,8,['Bonner Bolton'],['Bonner Bolton'],True,1,adjusted_score
+24,9,['David Ross'],['Simone Biles'],False,1,adjusted_score
+24,10,['David Ross'],,False,1,adjusted_score
+25,1,['Barbara Corcoran'],,False,1,adjusted_score
+25,2,['Barbara Corcoran'],"['Barbara Corcoran', 'Debbie Gibson']",True,1,adjusted_score
+25,3,['Sasha Pieterse'],,False,1,adjusted_score
+25,4,['Derek Fisher'],['Derek Fisher'],True,1,adjusted_score
+25,5,['Sasha Pieterse'],['Sasha Pieterse'],True,1,adjusted_score
+25,6,['Nick Lachey'],['Nick Lachey'],True,1,adjusted_score
+25,7,['Nikki Bella'],"['Nikki Bella', 'Vanessa Lachey']",True,1,adjusted_score
+25,8,['Drew Scott'],['Terrell Owens'],False,1,adjusted_score
+25,9,['Drew Scott'],['Victoria Arlen'],False,1,adjusted_score
+25,10,['Drew Scott'],['Drew Scott'],True,1,adjusted_score
+26,1,['Kareem Abdul-Jabbar'],"['Jamie Anderson', 'Johnny Damon']",False,1,adjusted_score
+26,2,['Kareem Abdul-Jabbar'],"['Arike Ogunbowale', 'Kareem Abdul-Jabbar']",True,1,adjusted_score
+26,3,['Jennie Finch Daigle'],"['Chris Mazdzer', 'Jennie Finch Daigle', 'Mirai Nagasu']",True,1,adjusted_score
+26,4,['Tonya Harding'],,False,1,adjusted_score
+27,1,['Joe Amabile'],['Nikki Glaser'],False,1,adjusted_score
+27,2,['Joe Amabile'],['Danelle Umstead'],False,1,adjusted_score
+27,3,['Joe Amabile'],['Nancy McKeon'],False,1,adjusted_score
+27,4,['Joe Amabile'],['Tinashe'],False,1,adjusted_score
+27,5,['Joe Amabile'],,False,1,adjusted_score
+27,6,['Joe Amabile'],['Mary Lou Retton'],False,1,adjusted_score
+27,7,['Joe Amabile'],"['DeMarcus Ware', 'John Schneider']",False,1,adjusted_score
+27,8,['Joe Amabile'],"['Joe Amabile', 'Juan Pablo Di Pace']",True,1,adjusted_score
+27,9,['Alexis Ren'],,False,1,adjusted_score
+28,1,['Lamar Odom'],,False,1,adjusted_score
+28,2,['Lamar Odom'],['Mary Wilson'],False,1,adjusted_score
+28,3,['Lamar Odom'],,False,1,adjusted_score
+28,4,['Lamar Odom'],['Lamar Odom'],True,1,adjusted_score
+28,5,['Sean Spicer'],,False,1,adjusted_score
+28,6,['Sean Spicer'],['Sailor Brinkley-Cook'],False,1,adjusted_score
+28,7,['Sean Spicer'],['Karamo Brown'],False,1,adjusted_score
+28,8,['Sean Spicer'],['Kate Flannery'],False,1,adjusted_score
+28,9,['Sean Spicer'],['Sean Spicer'],True,1,adjusted_score
+28,10,['James Van Der Beek'],['James Van Der Beek'],True,1,adjusted_score
+28,11,['Lauren Alaina'],,False,1,adjusted_score
+29,1,['Carole Baskin'],,False,1,adjusted_score
+29,2,['Charles Oakley'],['Charles Oakley'],True,1,adjusted_score
+29,3,['Carole Baskin'],['Carole Baskin'],True,1,adjusted_score
+29,4,['Jesse Metcalfe'],['Anne Heche'],False,1,adjusted_score
+29,5,['Jesse Metcalfe'],['Jesse Metcalfe'],True,1,adjusted_score
+29,6,['Veron Davis'],['Veron Davis'],True,1,adjusted_score
+29,7,['Monica Aldama'],['Monica Aldama'],True,1,adjusted_score
+29,8,['Nelly'],['Chrishell Stause'],False,1,adjusted_score
+29,9,['Nelly'],['AJ McLean'],False,1,adjusted_score
+29,10,['Skai Jackson'],"['Johnny Weir', 'Skai Jackson']",True,1,adjusted_score
+29,11,['Nelly'],,False,1,adjusted_score
+30,1,['Martin Kove'],,False,1,adjusted_score
+30,2,['Martin Kove'],['Martin Kove'],True,1,adjusted_score
+30,3,['Cody Rigsby'],['Christine Chiu'],False,1,adjusted_score
+30,4,['Brian Austin Green'],"['Brian Austin Green', 'Matt James']",True,1,adjusted_score
+30,5,['Melanie C'],['Melanie C'],True,1,adjusted_score
+30,6,['Kenya Moore'],['Kenya Moore'],True,1,adjusted_score
+30,7,"['Mike ""The Miz"" Mizanin']","['Mike ""The Miz"" Mizanin']",True,1,adjusted_score
+30,8,['Jimmie Allen'],"['Jimmie Allen', 'Olivia Jade']",True,1,adjusted_score
+30,9,['Melora Hardin'],"['Melora Hardin', 'Suni Lee']",True,1,adjusted_score
+30,10,['Cody Rigsby'],,False,1,adjusted_score
+31,1,['Jason Lewis'],['Jason Lewis'],True,1,adjusted_score
+31,2,['Cheryl Ladd'],['Teresa Giudice'],False,1,adjusted_score
+31,3,['Vinny Guadagnino'],['Cheryl Ladd'],False,1,adjusted_score
+31,4,['Sam Champion'],['Sam Champion'],True,1,adjusted_score
+31,5,['Vinny Guadagnino'],['Joseph Baena'],False,1,adjusted_score
+31,6,['Vinny Guadagnino'],['Jessie James Decker'],False,1,adjusted_score
+31,7,['Vinny Guadagnino'],['Jordin Sparks'],False,1,adjusted_score
+31,8,['Vinny Guadagnino'],"[""Heidi D'Amelio"", 'Vinny Guadagnino']",True,1,adjusted_score
+31,9,['Trevor Donovan'],"['Daniel Durant', 'Trevor Donovan']",True,1,adjusted_score
+31,10,['Shangela'],,False,1,adjusted_score
+32,1,['Matt Walsh'],['Matt Walsh'],True,1,adjusted_score
+32,2,['Mauricio Umansky'],['Jamie Lynn Spears'],False,1,adjusted_score
+32,3,['Tyson Beckford'],['Tyson Beckford'],True,1,adjusted_score
+32,4,['Barry Williams'],['Adrian Peterson'],False,1,adjusted_score
+32,5,['Harry Jowsey'],['Mira Sorvino'],False,1,adjusted_score
+32,6,['Harry Jowsey'],['Mauricio Umansky'],False,1,adjusted_score
+32,7,['Harry Jowsey'],['Lele Pons'],False,1,adjusted_score
+32,8,['Harry Jowsey'],['Barry Williams'],False,1,adjusted_score
+32,9,['Harry Jowsey'],['Harry Jowsey'],True,1,adjusted_score
+32,10,['Alyson Hannigan'],,False,1,adjusted_score
+32,11,['Alyson Hannigan'],,False,1,adjusted_score
+33,1,['Eric Roberts'],,False,1,adjusted_score
+33,2,['Reginald VelJohnson'],"['Anna Delvey', 'Tori Spelling']",False,1,adjusted_score
+33,3,['Reginald VelJohnson'],"['Eric Roberts', 'Reginald VelJohnson']",True,1,adjusted_score
+33,4,['Dwight Howard\xa0'],['Brooks Nader'],False,1,adjusted_score
+33,5,['Dwight Howard\xa0'],['Phaedra Parks'],False,1,adjusted_score
+33,6,['Ilona Maher'],['Jenn Tran'],False,1,adjusted_score
+33,7,['Dwight Howard\xa0'],['Dwight Howard\xa0'],True,1,adjusted_score
+33,8,['Danny Amendola'],,False,1,adjusted_score
+33,9,['Danny Amendola'],,False,1,adjusted_score
+34,1,['Corey Feldman'],,False,1,adjusted_score
+34,2,['Corey Feldman'],"['Baron Davis', 'Corey Feldman']",True,1,adjusted_score
+34,3,['Andy Richter'],['Lauren Jauregui'],False,1,adjusted_score
+34,4,['Andy Richter'],['Hilaria Baldwin'],False,1,adjusted_score
+34,5,['Andy Richter'],,False,1,adjusted_score
+34,6,['Andy Richter'],['Scott Hoying'],False,1,adjusted_score
+34,7,['Andy Richter'],['Jen Affleck'],False,1,adjusted_score
+34,8,['Andy Richter'],['Danielle Fishel'],False,1,adjusted_score
+34,9,['Andy Richter'],['Andy Richter'],True,1,adjusted_score
+34,10,['Elaine Hendrix'],['Whitney Leavitt'],False,1,adjusted_score
+34,11,['Elaine Hendrix'],,False,1,adjusted_score
+1,1,"['Evander Holyfield', 'Trista Sutter']",,False,2,adjusted_score
+1,2,"['Trista Sutter', 'Evander Holyfield']",['Trista Sutter'],True,2,adjusted_score
+1,3,"['Evander Holyfield', 'Joey McIntyre']",['Evander Holyfield'],True,2,adjusted_score
+1,4,"['Rachel Hunter', ""John O'Hurley""]",['Rachel Hunter'],True,2,adjusted_score
+1,5,"['Joey McIntyre', 'Kelly Monaco']",,False,2,adjusted_score
+1,6,"[""John O'Hurley"", 'Kelly Monaco']",,False,2,adjusted_score
+2,1,"['Kenny Mayne', 'Master P']",['Kenny Mayne'],True,2,adjusted_score
+2,2,"[""Tatum O'Neal"", 'Master P']","[""Tatum O'Neal""]",True,2,adjusted_score
+2,3,"['Master P', 'Giselle Fernandez']",['Giselle Fernandez'],True,2,adjusted_score
+2,4,"['Master P', 'George Hamilton']",['Master P'],True,2,adjusted_score
+2,5,"['Tia Carrere', 'Jerry Rice']",['Tia Carrere'],True,2,adjusted_score
+2,6,"['George Hamilton', 'Jerry Rice']",['George Hamilton'],True,2,adjusted_score
+2,7,"['Jerry Rice', 'Lisa Rinna']",['Lisa Rinna'],True,2,adjusted_score
+2,8,"['Jerry Rice', 'Stacy Keibler']",,False,2,adjusted_score
+3,1,"['Tucker Carlson', 'Jerry Springer']",['Tucker Carlson'],True,2,adjusted_score
+3,2,"['Jerry Springer', 'Shanna Moakler']",['Shanna Moakler'],True,2,adjusted_score
+3,3,"['Harry Hamlin', 'Jerry Springer']",['Harry Hamlin'],True,2,adjusted_score
+3,4,"['Sara Evans', 'Vivica A. Fox']",['Vivica A. Fox'],True,2,adjusted_score
+3,5,"['Jerry Springer', 'Sara Evans']",['Willa Ford'],False,2,adjusted_score
+3,6,"['Jerry Springer', 'Monique Coleman']",,False,2,adjusted_score
+3,7,"['Jerry Springer', 'Monique Coleman']",['Jerry Springer'],True,2,adjusted_score
+3,8,"['Monique Coleman', 'Joey Lawrence']",['Monique Coleman'],True,2,adjusted_score
+3,9,"['Joey Lawrence', 'Emmitt Smith']",,False,2,adjusted_score
+3,10,"['Emmitt Smith', 'Mario Lopez']",,False,2,adjusted_score
+4,1,"['Clyde Drexler', 'Billy Ray Cyrus']",,False,2,adjusted_score
+4,2,"['Clyde Drexler', 'Paulina Porizkova']",['Paulina Porizkova'],True,2,adjusted_score
+4,3,"['Clyde Drexler', 'Shandi Finnessey']",['Shandi Finnessey'],True,2,adjusted_score
+4,4,"['Leeza Gibbons', 'Clyde Drexler']",['Leeza Gibbons'],True,2,adjusted_score
+4,5,"['Clyde Drexler', 'Billy Ray Cyrus']",['Clyde Drexler'],True,2,adjusted_score
+4,6,"['John Ratzenberger', 'Heather Mills']",['Heather Mills'],True,2,adjusted_score
+4,7,"['Billy Ray Cyrus', 'John Ratzenberger']",['John Ratzenberger'],True,2,adjusted_score
+4,8,"['Billy Ray Cyrus', 'Ian Ziering']",['Billy Ray Cyrus'],True,2,adjusted_score
+4,9,"['Ian Ziering', 'Laila Ali']",['Ian Ziering'],True,2,adjusted_score
+4,10,"['Laila Ali', 'Joey Fatone']",,False,2,adjusted_score
+5,1,"['Josie Maran', 'Wayne Newton']",['Josie Maran'],True,2,adjusted_score
+5,2,"['Wayne Newton', 'Albert Reed']",['Albert Reed'],True,2,adjusted_score
+5,3,"['Wayne Newton', 'Mark Cuban']",['Wayne Newton'],True,2,adjusted_score
+5,4,"['Floyd Mayweather Jr. ', 'Mark Cuban']",['Floyd Mayweather Jr. '],True,2,adjusted_score
+5,5,"['Mark Cuban', 'Marie Osmond']",['Mark Cuban'],True,2,adjusted_score
+5,6,"['Jane Seymour', 'Sabrina Bryan']",['Sabrina Bryan'],True,2,adjusted_score
+5,7,"['Jane Seymour', 'Marie Osmond']",['Jane Seymour'],True,2,adjusted_score
+5,8,"['Cameron Mathison', 'Marie Osmond']",['Cameron Mathison'],True,2,adjusted_score
+5,9,"['Marie Osmond', 'Jennie Garth']",['Jennie Garth'],True,2,adjusted_score
+5,10,"['Marie Osmond', 'Helio Castroneves']",,False,2,adjusted_score
+6,1,"['Monica Seles', 'Adam Carolla']",,False,2,adjusted_score
+6,2,"['Monica Seles', 'Steve Guttenberg']","['Monica Seles', 'Penn Jillette']",True,2,adjusted_score
+6,3,"['Steve Guttenberg', 'Marissa Jaret Winokur']",['Steve Guttenberg'],True,2,adjusted_score
+6,4,"['Adam Carolla', 'Priscilla Presley']",['Adam Carolla'],True,2,adjusted_score
+6,5,"['Priscilla Presley', 'Marlee Matlin']",['Priscilla Presley'],True,2,adjusted_score
+6,6,"['Marlee Matlin', 'Shannon Elizabeth']",['Marlee Matlin'],True,2,adjusted_score
+6,7,"['Shannon Elizabeth', 'Cristian de la Fuente']",['Shannon Elizabeth'],True,2,adjusted_score
+6,8,"['Marissa Jaret Winokur', 'Mario']",['Mario'],True,2,adjusted_score
+6,9,"['Marissa Jaret Winokur', 'Jason Taylor']",['Marissa Jaret Winokur'],True,2,adjusted_score
+6,10,"['Cristian de la Fuente', 'Jason Taylor']",,False,2,adjusted_score
+7,1,"['Jeffrey Ross', 'Ted McGinley']","['Jeffrey Ross', 'Ted McGinley']",True,2,adjusted_score
+7,2,"['Kim Kardashian', 'Cloris Leachman']",['Kim Kardashian'],True,2,adjusted_score
+7,3,"['Cloris Leachman', 'Rocco DiSpirito']",,False,2,adjusted_score
+7,4,"['Rocco DiSpirito', 'Cloris Leachman']",['Rocco DiSpirito'],True,2,adjusted_score
+7,5,"['Toni Braxton', 'Cloris Leachman']",['Toni Braxton'],True,2,adjusted_score
+7,6,"['Cloris Leachman', 'Maurice Greene']",['Cloris Leachman'],True,2,adjusted_score
+7,7,"['Susan Lucci', 'Cody Linley']",['Susan Lucci'],True,2,adjusted_score
+7,8,"['Maurice Greene', 'Cody Linley']",['Maurice Greene'],True,2,adjusted_score
+7,9,"['Cody Linley', 'Warren Sapp']",['Cody Linley'],True,2,adjusted_score
+7,10,"['Warren Sapp', 'Lance Bass']",,False,2,adjusted_score
+8,1,"['Steve Wozniak', 'Steve-O']",,False,2,adjusted_score
+8,2,"['Steve-O', 'Belinda Carlisle']",['Belinda Carlisle'],True,2,adjusted_score
+8,3,"['Steve Wozniak', 'Denise Richards']",['Denise Richards'],True,2,adjusted_score
+8,4,"['Steve Wozniak', 'Holly Madison']","['Holly Madison', 'Steve Wozniak']",True,2,adjusted_score
+8,5,"['Steve-O', 'David Alan Grier']",['David Alan Grier'],True,2,adjusted_score
+8,6,"['Steve-O', 'Ty Murray']",['Steve-O'],True,2,adjusted_score
+8,7,"['Lawrence Taylor', 'Ty Murray']",['Lawrence Taylor'],True,2,adjusted_score
+8,8,"['Chuck Wicks', 'Melissa Rycroft']",['Chuck Wicks'],True,2,adjusted_score
+8,9,"['Ty Murray', ""Lil' Kim""]","[""Lil' Kim""]",True,2,adjusted_score
+8,10,"['Ty Murray', 'Melissa Rycroft']",['Ty Murray'],True,2,adjusted_score
+8,11,"['Melissa Rycroft', 'Gilles Marini']",,False,2,adjusted_score
+9,1,"['Ashley Hamiliton', 'Macy Gray']","['Ashley Hamiliton', 'Macy Gray']",True,2,adjusted_score
+9,2,"['Kathy Ireland', 'Tom DeLay']",['Kathy Ireland'],True,2,adjusted_score
+9,3,"['Michael Irvin', 'Debi Mazar']",['Debi Mazar'],True,2,adjusted_score
+9,4,"['Michael Irvin', 'Chuck Liddell']",['Chuck Liddell'],True,2,adjusted_score
+9,5,"['Natalie Coughlin', 'Michael Irvin']",['Natalie Coughlin'],True,2,adjusted_score
+9,6,"['Melissa Joan Hart', 'Michael Irvin']","['Louie Vito', 'Melissa Joan Hart']",True,2,adjusted_score
+9,7,"['Mark Dacascos', 'Michael Irvin']","['Mark Dacascos', 'Michael Irvin']",True,2,adjusted_score
+9,8,"['Aaron Carter', 'Kelly Osbourne']",['Aaron Carter'],True,2,adjusted_score
+9,9,"['Joanna Krupa', 'Donny Osmond']",['Joanna Krupa'],True,2,adjusted_score
+9,10,"['Kelly Osbourne', 'Donny Osmond']",,False,2,adjusted_score
+10,1,"['Buzz Aldrin', 'Kate Gosselin']",,False,2,adjusted_score
+10,2,"['Buzz Aldrin', 'Kate Gosselin']",['Shannen Doherty'],False,2,adjusted_score
+10,3,"['Buzz Aldrin', 'Kate Gosselin']",['Buzz Aldrin'],True,2,adjusted_score
+10,4,"['Aiden Turner', 'Kate Gosselin']",['Aiden Turner'],True,2,adjusted_score
+10,5,"['Kate Gosselin', 'Niecy Nash']",['Kate Gosselin'],True,2,adjusted_score
+10,6,"['Jake Pavelka', 'Niecy Nash']",['Jake Pavelka'],True,2,adjusted_score
+10,7,"['Niecy Nash', 'Pamela Anderson']",['Pamela Anderson'],True,2,adjusted_score
+10,8,"['Niecy Nash', 'Chad Ochocinco']",['Niecy Nash'],True,2,adjusted_score
+10,9,"['Chad Ochocinco', 'Erin Andrews']",['Chad Ochocinco'],True,2,adjusted_score
+10,10,"['Erin Andrews', 'Evan Lysacek']",,False,2,adjusted_score
+11,1,"['David Hasselhoff', 'Margaret Cho']",['David Hasselhoff'],True,2,adjusted_score
+11,2,"['Michael Bolton', 'Margaret Cho']",['Michael Bolton'],True,2,adjusted_score
+11,3,"['Margaret Cho', 'Bristol Palin']",['Margaret Cho'],True,2,adjusted_score
+11,4,"['The Situation', 'Bristol Palin']",['The Situation'],True,2,adjusted_score
+11,5,"['Bristol Palin', 'Florence Henderson']",['Florence Henderson'],True,2,adjusted_score
+11,6,"['Kurt Warner', 'Bristol Palin']",['Audrina Patridge'],False,2,adjusted_score
+11,7,"['Bristol Palin', 'Rick Fox']",['Rick Fox'],True,2,adjusted_score
+11,8,"['Kurt Warner', 'Bristol Palin']",['Kurt Warner'],True,2,adjusted_score
+11,9,"['Bristol Palin', 'Brandy']",['Brandy'],True,2,adjusted_score
+11,10,"['Bristol Palin', 'Kyle Massey']",,False,2,adjusted_score
+12,1,"['Mike Catherwood', 'Wendy Williams']",,False,2,adjusted_score
+12,2,"['Mike Catherwood', 'Wendy Williams']",['Mike Catherwood'],True,2,adjusted_score
+12,3,"['Wendy Williams', 'Sugar Ray Leonard']",['Wendy Williams'],True,2,adjusted_score
+12,4,"['Kendra Wilkinson', 'Sugar Ray Leonard']",['Sugar Ray Leonard'],True,2,adjusted_score
+12,5,"['Petra Nemcova', 'Kendra Wilkinson']",['Petra Nemcova'],True,2,adjusted_score
+12,6,"['Chris Jericho', 'Ralph Macchio']",['Chris Jericho'],True,2,adjusted_score
+12,7,"['Kendra Wilkinson', 'Kirstie Alley']",['Kendra Wilkinson'],True,2,adjusted_score
+12,8,"['Ralph Macchio', 'Romeo']",['Romeo'],True,2,adjusted_score
+12,9,"['Ralph Macchio', 'Kirstie Alley']",['Ralph Macchio'],True,2,adjusted_score
+12,10,"['Kirstie Alley', 'Hines Ward']",,False,2,adjusted_score
+13,1,"['Metta World Peace (Ron)', 'Elisabetta Canalis']",['Metta World Peace (Ron)'],True,2,adjusted_score
+13,2,"['Chaz Bono', 'Carson Kressley']",['Elisabetta Canalis'],False,2,adjusted_score
+13,3,"['Chaz Bono', 'Kristin Cavallari']",['Kristin Cavallari'],True,2,adjusted_score
+13,4,"['Chynna Phillips', 'Carson Kressley']",['Chynna Phillips'],True,2,adjusted_score
+13,5,"['Carson Kressley', 'Chaz Bono']",['Carson Kressley'],True,2,adjusted_score
+13,6,"['Chaz Bono', 'Hope Solo']",['Chaz Bono'],True,2,adjusted_score
+13,7,"['David Arquette', 'Nancy Grace']",['David Arquette'],True,2,adjusted_score
+13,8,"['Nancy Grace', 'Hope Solo']",['Nancy Grace'],True,2,adjusted_score
+13,9,"['Hope Solo', 'J.R. Martinez']",['Hope Solo'],True,2,adjusted_score
+13,10,"['Ricki Lake', 'J.R. Martinez']",,False,2,adjusted_score
+14,1,"['Martina Navratilova', 'Melissa Gilbert']",,False,2,adjusted_score
+14,2,"['Martina Navratilova', 'Gladys Knight']",['Martina Navratilova'],True,2,adjusted_score
+14,3,"['Jack Wagner', 'Gladys Knight']",['Jack Wagner'],True,2,adjusted_score
+14,4,"['Sherri Sheperd', 'Gladys Knight']",['Sherri Sheperd'],True,2,adjusted_score
+14,5,"['Gavin DeGraw', 'Melissa Gilbert']",['Gavin DeGraw'],True,2,adjusted_score
+14,6,"['Gladys Knight', 'Melissa Gilbert']",['Gladys Knight'],True,2,adjusted_score
+14,7,"['Melissa Gilbert', 'Jaleel White']",['Jaleel White'],True,2,adjusted_score
+14,8,"['Melissa Gilbert', 'Maria Menounos']","['Melissa Gilbert', 'Roshon Fegan']",True,2,adjusted_score
+14,9,"['Maria Menounos', 'Donald Driver']",['Maria Menounos'],True,2,adjusted_score
+14,10,"['Donald Driver', 'William Levy']",,False,2,adjusted_score
+15,1,"['Pamela Anderson', 'Bristol Palin']",['Pamela Anderson'],True,2,adjusted_score
+15,2,"['Bristol Palin', 'Joey Fatone']",['Joey Fatone'],True,2,adjusted_score
+15,3,"['Drew Lachey', 'Bristol Palin']","['Drew Lachey', 'Helio Castroneves']",True,2,adjusted_score
+15,4,"['Kirstie Alley', 'Bristol Palin']",['Bristol Palin'],True,2,adjusted_score
+15,5,"['Kirstie Alley', 'Kelly Monaco']",,False,2,adjusted_score
+15,6,"['Emmitt Smith', 'Kirstie Alley']",['Sabrina Bryan'],False,2,adjusted_score
+15,7,"['Kirstie Alley', 'Emmitt Smith']",,False,2,adjusted_score
+15,8,"['Kirstie Alley', 'Gilles Marini']","['Gilles Marini', 'Kirstie Alley']",True,2,adjusted_score
+15,9,"['Emmitt Smith', 'Kelly Monaco']","['Apolo Anton Ohno', 'Emmitt Smith']",True,2,adjusted_score
+15,10,"['Shawn Johnson', 'Kelly Monaco']",,False,2,adjusted_score
+16,1,"['D. L. Hughley', 'Wynonna Judd']",,False,2,adjusted_score
+16,2,"['Dorothy Hamill', 'D. L. Hughley']",,False,2,adjusted_score
+16,3,"['Wynonna Judd', 'D. L. Hughley']",['Wynonna Judd'],True,2,adjusted_score
+16,4,"['Lisa Vanderpump', 'Victor Ortiz']",['Lisa Vanderpump'],True,2,adjusted_score
+16,5,"['D. L. Hughley', 'Andy Dick']",['D. L. Hughley'],True,2,adjusted_score
+16,6,"['Victor Ortiz', 'Andy Dick']",['Victor Ortiz'],True,2,adjusted_score
+16,7,"['Andy Dick', 'Sean Lowe']",['Andy Dick'],True,2,adjusted_score
+16,8,"['Sean Lowe', 'Ingo Rademacher']",['Sean Lowe'],True,2,adjusted_score
+16,9,"['Ingo Rademacher', 'Jacoby Jones']",['Ingo Rademacher'],True,2,adjusted_score
+16,10,"['Alexandra Raisman', 'Jacoby Jones']",['Alexandra Raisman'],True,2,adjusted_score
+17,1,"['Bill Nye', 'Keyshawn Johnson']",,False,2,adjusted_score
+17,2,"['Keyshawn Johnson', 'Bill Nye']",['Keyshawn Johnson'],True,2,adjusted_score
+17,3,"['Bill Nye', 'Valerie Harper']",['Bill Nye'],True,2,adjusted_score
+17,4,"['Valerie Harper', 'Bill Engvall']",['Valerie Harper'],True,2,adjusted_score
+17,5,"['Leah Remini', 'Bill Engvall']",['Christina Milian'],False,2,adjusted_score
+17,6,"['Bill Engvall', 'Leah Remini']",,False,2,adjusted_score
+17,7,"['Bill Engvall', 'Nicole ""Snooki"" Polizzi']","['Nicole ""Snooki"" Polizzi']",True,2,adjusted_score
+17,8,"['Bill Engvall', 'Brant Daugherty']",['Brant Daugherty'],True,2,adjusted_score
+17,9,"['Bill Engvall', 'Elizabeth Berkley Lauren']",['Elizabeth Berkley Lauren'],True,2,adjusted_score
+17,10,"['Leah Remini', 'Bill Engvall']",['Leah Remini'],True,2,adjusted_score
+17,11,"['Bill Engvall', 'Jack Osbourne']",['Bill Engvall'],True,2,adjusted_score
+18,1,"['Billy Dee Williams', 'Diana Nyad']",,False,2,adjusted_score
+18,2,"['Billy Dee Williams', 'Sean Avery']",['Sean Avery'],True,2,adjusted_score
+18,3,"['Drew Carey', 'NeNe Leakes']",,False,2,adjusted_score
+18,4,"['Candace Cameron Bure', 'Drew Carey']",,False,2,adjusted_score
+18,5,"['Drew Carey', 'Cody Simpson']",['Cody Simpson'],True,2,adjusted_score
+18,6,"['Drew Carey', 'Candace Cameron Bure']",['Drew Carey'],True,2,adjusted_score
+18,7,"['NeNe Leakes', 'Candace Cameron Bure']",['NeNe Leakes'],True,2,adjusted_score
+18,8,"['Candace Cameron Bure', 'James Maslow']",['Danica McKellar'],False,2,adjusted_score
+18,9,"['Candace Cameron Bure', 'Charlie White']",['Charlie White'],True,2,adjusted_score
+18,10,"['Candace Cameron Bure', 'James Maslow']",['James Maslow'],True,2,adjusted_score
+19,1,"['Lolo Jones', 'Betsey Johnson']",['Lolo Jones'],True,2,adjusted_score
+19,2,"['Tavis Smiley', 'Michael Waltrip']",['Tavis Smiley'],True,2,adjusted_score
+19,3,"['Randy Couture', 'Michael Waltrip']",['Randy Couture'],True,2,adjusted_score
+19,4,"['Michael Waltrip', 'Betsey Johnson']",['Betsey Johnson'],True,2,adjusted_score
+19,5,"['Michael Waltrip', 'Tommy Chong']",,False,2,adjusted_score
+19,6,"['Tommy Chong', 'Antonio Sabato Jr.']",['Jonathan Bennett'],False,2,adjusted_score
+19,7,"['Michael Waltrip', 'Antonio Sabato Jr.']",['Antonio Sabato Jr.'],True,2,adjusted_score
+19,8,"['Michael Waltrip', 'Tommy Chong']",['Michael Waltrip'],True,2,adjusted_score
+19,9,"['Tommy Chong', 'Lea Thompson']",['Lea Thompson'],True,2,adjusted_score
+19,10,"['Tommy Chong', 'Bethany Mota']",['Tommy Chong'],True,2,adjusted_score
+19,11,"['Bethany Mota', 'Sadie Robertson']",['Bethany Mota'],True,2,adjusted_score
+20,1,"['Charlotte McKinney', 'Redfoo']",,False,2,adjusted_score
+20,2,"['Chris Soules', 'Charlotte McKinney']",['Redfoo'],False,2,adjusted_score
+20,3,"['Charlotte McKinney', 'Patti LaBelle']",['Charlotte McKinney'],True,2,adjusted_score
+20,4,"['Michael Sam', 'Chris Soules']",['Michael Sam'],True,2,adjusted_score
+20,5,"['Robert Herjavec', 'Suzanne Somers']",['Suzanne Somers'],True,2,adjusted_score
+20,6,"['Patti LaBelle', 'Robert Herjavec']",['Patti LaBelle'],True,2,adjusted_score
+20,7,"['Robert Herjavec', 'Chris Soules']",['Willow Shields'],False,2,adjusted_score
+20,8,"['Robert Herjavec', 'Chris Soules']","['Chris Soules', 'Robert Herjavec']",True,2,adjusted_score
+20,9,"['Noah Galloway', 'Nastia Liukin']",['Nastia Liukin'],True,2,adjusted_score
+20,10,"['Noah Galloway', 'Rumer Willis']",,False,2,adjusted_score
+21,1,"['Chaka Khan', 'Kim Zolciak-Biermann']",,False,2,adjusted_score
+21,2,"['Chaka Khan', 'Victor Espinoza']","['Chaka Khan', 'Victor Espinoza']",True,2,adjusted_score
+21,3,"['Paula Deen', 'Gary Busey']",,False,2,adjusted_score
+21,4,"['Gary Busey', 'Paula Deen']",['Gary Busey'],True,2,adjusted_score
+21,5,"['Paula Deen', 'Alek Skarlatos']",,False,2,adjusted_score
+21,6,"['Paula Deen', 'Alek Skarlatos']",['Paula Deen'],True,2,adjusted_score
+21,7,"['Alek Skarlatos', 'Tamar Braxton']",['Hayes Grier'],False,2,adjusted_score
+21,8,"['Andy Grammer', 'Alek Skarlatos']",['Andy Grammer'],True,2,adjusted_score
+21,9,"['Tamar Braxton', 'Alek Skarlatos']",['Alexa PenaVega'],False,2,adjusted_score
+21,10,"['Alek Skarlatos', 'Nick Carter']",,False,2,adjusted_score
+21,11,"['Alek Skarlatos', 'Carlos PenaVega']",['Carlos PenaVega'],True,2,adjusted_score
+22,1,"['Geraldo Rivera', 'Mischa Barton']",,False,2,adjusted_score
+22,2,"['Geraldo Rivera', 'Mischa Barton']",['Geraldo Rivera'],True,2,adjusted_score
+22,3,"['Mischa Barton', 'Doug Flutie']",['Mischa Barton'],True,2,adjusted_score
+22,4,"['Marla Maples', 'Doug Flutie']",['Marla Maples'],True,2,adjusted_score
+22,5,"['Antonio Brown', 'Doug Flutie']",,False,2,adjusted_score
+22,6,"['Doug Flutie', 'Von Miller']",['Doug Flutie'],True,2,adjusted_score
+22,7,"['Kim Fields', 'Von Miller']","['Kim Fields', 'Von Miller']",True,2,adjusted_score
+22,8,"['Wanya Morris', 'Antonio Brown']",['Jodie Sweetin'],False,2,adjusted_score
+22,9,"['Antonio Brown', 'Ginger Zee']","['Antonio Brown', 'Wanya Morris']",True,2,adjusted_score
+22,10,"['Ginger Zee', 'Nyle DiMarco']",,False,2,adjusted_score
+23,1,"['Rick Perry', 'Jake T. Austin']",,False,2,adjusted_score
+23,2,"['Rick Perry', 'Jake T. Austin']",['Jake T. Austin'],True,2,adjusted_score
+23,3,"['Rick Perry', 'Vanilla Ice']",['Rick Perry'],True,2,adjusted_score
+23,4,"['Babyface', 'Vanilla Ice']","['Babyface', 'Vanilla Ice']",True,2,adjusted_score
+23,5,"['Amber Rose', 'Ryan Lochte']",,False,2,adjusted_score
+23,6,"['Amber Rose', 'Ryan Lochte']",['Amber Rose'],True,2,adjusted_score
+23,7,"['Maureen McCormick', 'Marilu Henner']",['Maureen McCormick'],True,2,adjusted_score
+23,8,"['Marilu Henner', 'Ryan Lochte']",['Ryan Lochte'],True,2,adjusted_score
+23,9,"['Marilu Henner', 'James Hinchcliffe']",['Marilu Henner'],True,2,adjusted_score
+23,10,"['Calvin Johnson Jr.', 'Jana Kramer']",['Terra Jole'],False,2,adjusted_score
+23,11,"['Jana Kramer', 'Calvin Johnson Jr.']",['Jana Kramer'],True,2,adjusted_score
+24,1,"['Chris Kattan', 'Mr. T']",,False,2,adjusted_score
+24,2,"['Chris Kattan', 'Mr. T']",['Chris Kattan'],True,2,adjusted_score
+24,3,"['Charo', 'Mr. T']",['Charo'],True,2,adjusted_score
+24,4,"['Mr. T', 'Nick Viall']",['Mr. T'],True,2,adjusted_score
+24,5,"['David Ross', 'Erika Jayne']",['Erika Jayne'],True,2,adjusted_score
+24,6,"['Nick Viall', 'David Ross']",['Heather Morris'],False,2,adjusted_score
+24,7,"['Nick Viall', 'Bonner Bolton']","['Nancy Kerrigan', 'Nick Viall']",True,2,adjusted_score
+24,8,"['Bonner Bolton', 'David Ross']",['Bonner Bolton'],True,2,adjusted_score
+24,9,"['David Ross', 'Simone Biles']",['Simone Biles'],True,2,adjusted_score
+24,10,"['David Ross', 'Normani']",,False,2,adjusted_score
+25,1,"['Barbara Corcoran', 'Terrell Owens']",,False,2,adjusted_score
+25,2,"['Barbara Corcoran', 'Debbie Gibson']","['Barbara Corcoran', 'Debbie Gibson']",True,2,adjusted_score
+25,3,"['Sasha Pieterse', 'Nick Lachey']",,False,2,adjusted_score
+25,4,"['Derek Fisher', 'Nick Lachey']",['Derek Fisher'],True,2,adjusted_score
+25,5,"['Sasha Pieterse', 'Nick Lachey']",['Sasha Pieterse'],True,2,adjusted_score
+25,6,"['Nick Lachey', 'Drew Scott']",['Nick Lachey'],True,2,adjusted_score
+25,7,"['Nikki Bella', 'Terrell Owens']","['Nikki Bella', 'Vanessa Lachey']",True,2,adjusted_score
+25,8,"['Drew Scott', 'Terrell Owens']",['Terrell Owens'],True,2,adjusted_score
+25,9,"['Drew Scott', 'Victoria Arlen']",['Victoria Arlen'],True,2,adjusted_score
+25,10,"['Drew Scott', 'Frankie Muniz']",['Drew Scott'],True,2,adjusted_score
+26,1,"['Kareem Abdul-Jabbar', 'Johnny Damon']","['Jamie Anderson', 'Johnny Damon']",True,2,adjusted_score
+26,2,"['Kareem Abdul-Jabbar', 'Jennie Finch Daigle']","['Arike Ogunbowale', 'Kareem Abdul-Jabbar']",True,2,adjusted_score
+26,3,"['Jennie Finch Daigle', 'Chris Mazdzer']","['Chris Mazdzer', 'Jennie Finch Daigle', 'Mirai Nagasu']",True,2,adjusted_score
+26,4,"['Tonya Harding', 'Josh Norman']",,False,2,adjusted_score
+27,1,"['Joe Amabile', 'Nikki Glaser']",['Nikki Glaser'],True,2,adjusted_score
+27,2,"['Joe Amabile', 'Danelle Umstead']",['Danelle Umstead'],True,2,adjusted_score
+27,3,"['Joe Amabile', 'Nancy McKeon']",['Nancy McKeon'],True,2,adjusted_score
+27,4,"['Joe Amabile', 'Tinashe']",['Tinashe'],True,2,adjusted_score
+27,5,"['Joe Amabile', 'Bobby Bones']",,False,2,adjusted_score
+27,6,"['Joe Amabile', 'John Schneider']",['Mary Lou Retton'],False,2,adjusted_score
+27,7,"['Joe Amabile', 'DeMarcus Ware']","['DeMarcus Ware', 'John Schneider']",True,2,adjusted_score
+27,8,"['Joe Amabile', 'Bobby Bones']","['Joe Amabile', 'Juan Pablo Di Pace']",True,2,adjusted_score
+27,9,"['Alexis Ren', 'Bobby Bones']",,False,2,adjusted_score
+28,1,"['Lamar Odom', 'Sean Spicer']",,False,2,adjusted_score
+28,2,"['Lamar Odom', 'Ray Lewis']",['Mary Wilson'],False,2,adjusted_score
+28,3,"['Lamar Odom', 'Sean Spicer']",,False,2,adjusted_score
+28,4,"['Lamar Odom', 'Sean Spicer']",['Lamar Odom'],True,2,adjusted_score
+28,5,"['Sean Spicer', 'Karamo Brown']",,False,2,adjusted_score
+28,6,"['Sean Spicer', 'Sailor Brinkley-Cook']",['Sailor Brinkley-Cook'],True,2,adjusted_score
+28,7,"['Sean Spicer', 'Kate Flannery']",['Karamo Brown'],False,2,adjusted_score
+28,8,"['Sean Spicer', 'Lauren Alaina']",['Kate Flannery'],False,2,adjusted_score
+28,9,"['Sean Spicer', 'Lauren Alaina']",['Sean Spicer'],True,2,adjusted_score
+28,10,"['James Van Der Beek', 'Lauren Alaina']",['James Van Der Beek'],True,2,adjusted_score
+28,11,"['Lauren Alaina', 'Hannah Brown']",,False,2,adjusted_score
+29,1,"['Carole Baskin', 'Charles Oakley']",,False,2,adjusted_score
+29,2,"['Charles Oakley', 'Carole Baskin']",['Charles Oakley'],True,2,adjusted_score
+29,3,"['Carole Baskin', 'Anne Heche']",['Carole Baskin'],True,2,adjusted_score
+29,4,"['Jesse Metcalfe', 'Anne Heche']",['Anne Heche'],True,2,adjusted_score
+29,5,"['Jesse Metcalfe', 'Chrishell Stause']",['Jesse Metcalfe'],True,2,adjusted_score
+29,6,"['Veron Davis', 'Skai Jackson']",['Veron Davis'],True,2,adjusted_score
+29,7,"['Monica Aldama', 'Jeannie Mai']",['Monica Aldama'],True,2,adjusted_score
+29,8,"['Nelly', 'Chrishell Stause']",['Chrishell Stause'],True,2,adjusted_score
+29,9,"['Nelly', 'AJ McLean']",['AJ McLean'],True,2,adjusted_score
+29,10,"['Skai Jackson', 'Nelly']","['Johnny Weir', 'Skai Jackson']",True,2,adjusted_score
+29,11,"['Nelly', 'Justina Machado']",,False,2,adjusted_score
+30,1,"['Martin Kove', 'Brian Austin Green']",,False,2,adjusted_score
+30,2,"['Martin Kove', 'Brian Austin Green']",['Martin Kove'],True,2,adjusted_score
+30,3,"['Cody Rigsby', 'Christine Chiu']",['Christine Chiu'],True,2,adjusted_score
+30,4,"['Brian Austin Green', 'Matt James']","['Brian Austin Green', 'Matt James']",True,2,adjusted_score
+30,5,"['Melanie C', 'Cody Rigsby']",['Melanie C'],True,2,adjusted_score
+30,6,"['Kenya Moore', 'Mike ""The Miz"" Mizanin']",['Kenya Moore'],True,2,adjusted_score
+30,7,"['Mike ""The Miz"" Mizanin', 'Cody Rigsby']","['Mike ""The Miz"" Mizanin']",True,2,adjusted_score
+30,8,"['Jimmie Allen', 'Olivia Jade']","['Jimmie Allen', 'Olivia Jade']",True,2,adjusted_score
+30,9,"['Melora Hardin', 'Suni Lee']","['Melora Hardin', 'Suni Lee']",True,2,adjusted_score
+30,10,"['Cody Rigsby', 'Amanda Kloots']",,False,2,adjusted_score
+31,1,"['Jason Lewis', 'Vinny Guadagnino']",['Jason Lewis'],True,2,adjusted_score
+31,2,"['Cheryl Ladd', 'Teresa Giudice']",['Teresa Giudice'],True,2,adjusted_score
+31,3,"['Vinny Guadagnino', 'Cheryl Ladd']",['Cheryl Ladd'],True,2,adjusted_score
+31,4,"['Sam Champion', 'Vinny Guadagnino']",['Sam Champion'],True,2,adjusted_score
+31,5,"['Vinny Guadagnino', 'Joseph Baena']",['Joseph Baena'],True,2,adjusted_score
+31,6,"['Vinny Guadagnino', 'Jessie James Decker']",['Jessie James Decker'],True,2,adjusted_score
+31,7,"['Vinny Guadagnino', 'Jordin Sparks']",['Jordin Sparks'],True,2,adjusted_score
+31,8,"['Vinny Guadagnino', ""Heidi D'Amelio""]","[""Heidi D'Amelio"", 'Vinny Guadagnino']",True,2,adjusted_score
+31,9,"['Trevor Donovan', 'Daniel Durant']","['Daniel Durant', 'Trevor Donovan']",True,2,adjusted_score
+31,10,"['Shangela', 'Wayne Brady']",,False,2,adjusted_score
+32,1,"['Matt Walsh', 'Tyson Beckford']",['Matt Walsh'],True,2,adjusted_score
+32,2,"['Mauricio Umansky', 'Jamie Lynn Spears']",['Jamie Lynn Spears'],True,2,adjusted_score
+32,3,"['Tyson Beckford', 'Mauricio Umansky']",['Tyson Beckford'],True,2,adjusted_score
+32,4,"['Barry Williams', 'Alyson Hannigan']",['Adrian Peterson'],False,2,adjusted_score
+32,5,"['Harry Jowsey', 'Barry Williams']",['Mira Sorvino'],False,2,adjusted_score
+32,6,"['Harry Jowsey', 'Mauricio Umansky']",['Mauricio Umansky'],True,2,adjusted_score
+32,7,"['Harry Jowsey', 'Barry Williams']",['Lele Pons'],False,2,adjusted_score
+32,8,"['Harry Jowsey', 'Barry Williams']",['Barry Williams'],True,2,adjusted_score
+32,9,"['Harry Jowsey', 'Alyson Hannigan']",['Harry Jowsey'],True,2,adjusted_score
+32,10,"['Alyson Hannigan', 'Jason Mraz']",,False,2,adjusted_score
+32,11,"['Alyson Hannigan', 'Ariana Madix']",,False,2,adjusted_score
+33,1,"['Eric Roberts', 'Reginald VelJohnson']",,False,2,adjusted_score
+33,2,"['Reginald VelJohnson', 'Eric Roberts']","['Anna Delvey', 'Tori Spelling']",False,2,adjusted_score
+33,3,"['Reginald VelJohnson', 'Eric Roberts']","['Eric Roberts', 'Reginald VelJohnson']",True,2,adjusted_score
+33,4,"['Dwight Howard\xa0', 'Phaedra Parks']",['Brooks Nader'],False,2,adjusted_score
+33,5,"['Dwight Howard\xa0', 'Phaedra Parks']",['Phaedra Parks'],True,2,adjusted_score
+33,6,"['Ilona Maher', 'Danny Amendola']",['Jenn Tran'],False,2,adjusted_score
+33,7,"['Dwight Howard\xa0', 'Danny Amendola']",['Dwight Howard\xa0'],True,2,adjusted_score
+33,8,"['Danny Amendola', 'Stephen Nedoroscik']",,False,2,adjusted_score
+33,9,"['Danny Amendola', 'Ilona Maher']",,False,2,adjusted_score
+34,1,"['Corey Feldman', 'Andy Richter']",,False,2,adjusted_score
+34,2,"['Corey Feldman', 'Andy Richter']","['Baron Davis', 'Corey Feldman']",True,2,adjusted_score
+34,3,"['Andy Richter', 'Lauren Jauregui']",['Lauren Jauregui'],True,2,adjusted_score
+34,4,"['Andy Richter', 'Scott Hoying']",['Hilaria Baldwin'],False,2,adjusted_score
+34,5,"['Andy Richter', 'Jen Affleck']",,False,2,adjusted_score
+34,6,"['Andy Richter', 'Scott Hoying']",['Scott Hoying'],True,2,adjusted_score
+34,7,"['Andy Richter', 'Elaine Hendrix']",['Jen Affleck'],False,2,adjusted_score
+34,8,"['Andy Richter', 'Danielle Fishel']",['Danielle Fishel'],True,2,adjusted_score
+34,9,"['Andy Richter', 'Elaine Hendrix']",['Andy Richter'],True,2,adjusted_score
+34,10,"['Elaine Hendrix', 'Dylan Efron']",['Whitney Leavitt'],False,2,adjusted_score
+34,11,"['Elaine Hendrix', 'Dylan Efron']",,False,2,adjusted_score
+1,1,"['Evander Holyfield', 'Trista Sutter', 'Kelly Monaco']",,False,3,adjusted_score
+1,2,"['Trista Sutter', 'Evander Holyfield', 'Joey McIntyre']",['Trista Sutter'],True,3,adjusted_score
+1,3,"['Evander Holyfield', 'Joey McIntyre', ""John O'Hurley""]",['Evander Holyfield'],True,3,adjusted_score
+1,4,"['Rachel Hunter', ""John O'Hurley"", 'Joey McIntyre']",['Rachel Hunter'],True,3,adjusted_score
+1,5,"['Joey McIntyre', 'Kelly Monaco', ""John O'Hurley""]",,False,3,adjusted_score
+1,6,"[""John O'Hurley"", 'Kelly Monaco']",,False,3,adjusted_score
+2,1,"['Kenny Mayne', 'Master P', 'Jerry Rice']",['Kenny Mayne'],True,3,adjusted_score
+2,2,"[""Tatum O'Neal"", 'Master P', 'Jerry Rice']","[""Tatum O'Neal""]",True,3,adjusted_score
+2,3,"['Master P', 'Giselle Fernandez', 'George Hamilton']",['Giselle Fernandez'],True,3,adjusted_score
+2,4,"['Master P', 'George Hamilton', 'Jerry Rice']",['Master P'],True,3,adjusted_score
+2,5,"['Tia Carrere', 'Jerry Rice', 'George Hamilton']",['Tia Carrere'],True,3,adjusted_score
+2,6,"['George Hamilton', 'Jerry Rice', 'Lisa Rinna']",['George Hamilton'],True,3,adjusted_score
+2,7,"['Jerry Rice', 'Lisa Rinna', 'Stacy Keibler']",['Lisa Rinna'],True,3,adjusted_score
+2,8,"['Jerry Rice', 'Stacy Keibler', 'Drew Lachey']",,False,3,adjusted_score
+3,1,"['Tucker Carlson', 'Jerry Springer', 'Sara Evans']",['Tucker Carlson'],True,3,adjusted_score
+3,2,"['Jerry Springer', 'Shanna Moakler', 'Sara Evans']",['Shanna Moakler'],True,3,adjusted_score
+3,3,"['Harry Hamlin', 'Jerry Springer', 'Emmitt Smith']",['Harry Hamlin'],True,3,adjusted_score
+3,4,"['Sara Evans', 'Vivica A. Fox', 'Jerry Springer']",['Vivica A. Fox'],True,3,adjusted_score
+3,5,"['Jerry Springer', 'Sara Evans', 'Joey Lawrence']",['Willa Ford'],False,3,adjusted_score
+3,6,"['Jerry Springer', 'Monique Coleman', 'Joey Lawrence']",,False,3,adjusted_score
+3,7,"['Jerry Springer', 'Monique Coleman', 'Joey Lawrence']",['Jerry Springer'],True,3,adjusted_score
+3,8,"['Monique Coleman', 'Joey Lawrence', 'Emmitt Smith']",['Monique Coleman'],True,3,adjusted_score
+3,9,"['Joey Lawrence', 'Emmitt Smith', 'Mario Lopez']",,False,3,adjusted_score
+3,10,"['Emmitt Smith', 'Mario Lopez']",,False,3,adjusted_score
+4,1,"['Clyde Drexler', 'Billy Ray Cyrus', 'Leeza Gibbons']",,False,3,adjusted_score
+4,2,"['Clyde Drexler', 'Paulina Porizkova', 'Shandi Finnessey']",['Paulina Porizkova'],True,3,adjusted_score
+4,3,"['Clyde Drexler', 'Shandi Finnessey', 'John Ratzenberger']",['Shandi Finnessey'],True,3,adjusted_score
+4,4,"['Leeza Gibbons', 'Clyde Drexler', 'John Ratzenberger']",['Leeza Gibbons'],True,3,adjusted_score
+4,5,"['Clyde Drexler', 'Billy Ray Cyrus', 'John Ratzenberger']",['Clyde Drexler'],True,3,adjusted_score
+4,6,"['John Ratzenberger', 'Heather Mills', 'Billy Ray Cyrus']",['Heather Mills'],True,3,adjusted_score
+4,7,"['Billy Ray Cyrus', 'John Ratzenberger', 'Ian Ziering']",['John Ratzenberger'],True,3,adjusted_score
+4,8,"['Billy Ray Cyrus', 'Ian Ziering', 'Laila Ali']",['Billy Ray Cyrus'],True,3,adjusted_score
+4,9,"['Ian Ziering', 'Laila Ali', 'Apolo Anton Ohno']",['Ian Ziering'],True,3,adjusted_score
+4,10,"['Laila Ali', 'Joey Fatone', 'Apolo Anton Ohno']",,False,3,adjusted_score
+5,1,"['Josie Maran', 'Wayne Newton', 'Floyd Mayweather Jr. ']",['Josie Maran'],True,3,adjusted_score
+5,2,"['Wayne Newton', 'Albert Reed', 'Mark Cuban']",['Albert Reed'],True,3,adjusted_score
+5,3,"['Wayne Newton', 'Mark Cuban', 'Floyd Mayweather Jr. ']",['Wayne Newton'],True,3,adjusted_score
+5,4,"['Floyd Mayweather Jr. ', 'Mark Cuban', 'Marie Osmond']",['Floyd Mayweather Jr. '],True,3,adjusted_score
+5,5,"['Mark Cuban', 'Marie Osmond', 'Jane Seymour']",['Mark Cuban'],True,3,adjusted_score
+5,6,"['Jane Seymour', 'Sabrina Bryan', 'Marie Osmond']",['Sabrina Bryan'],True,3,adjusted_score
+5,7,"['Jane Seymour', 'Marie Osmond', 'Cameron Mathison']",['Jane Seymour'],True,3,adjusted_score
+5,8,"['Cameron Mathison', 'Marie Osmond', 'Jennie Garth']",['Cameron Mathison'],True,3,adjusted_score
+5,9,"['Marie Osmond', 'Jennie Garth', 'Helio Castroneves']",['Jennie Garth'],True,3,adjusted_score
+5,10,"['Marie Osmond', 'Helio Castroneves', 'Mel B']",,False,3,adjusted_score
+6,1,"['Monica Seles', 'Adam Carolla', 'Penn Jillette']",,False,3,adjusted_score
+6,2,"['Monica Seles', 'Steve Guttenberg', 'Penn Jillette']","['Monica Seles', 'Penn Jillette']",True,3,adjusted_score
+6,3,"['Steve Guttenberg', 'Marissa Jaret Winokur', 'Adam Carolla']",['Steve Guttenberg'],True,3,adjusted_score
+6,4,"['Adam Carolla', 'Priscilla Presley', 'Marlee Matlin']",['Adam Carolla'],True,3,adjusted_score
+6,5,"['Priscilla Presley', 'Marlee Matlin', 'Shannon Elizabeth']",['Priscilla Presley'],True,3,adjusted_score
+6,6,"['Marlee Matlin', 'Shannon Elizabeth', 'Marissa Jaret Winokur']",['Marlee Matlin'],True,3,adjusted_score
+6,7,"['Shannon Elizabeth', 'Cristian de la Fuente', 'Marissa Jaret Winokur']",['Shannon Elizabeth'],True,3,adjusted_score
+6,8,"['Marissa Jaret Winokur', 'Mario', 'Jason Taylor']",['Mario'],True,3,adjusted_score
+6,9,"['Marissa Jaret Winokur', 'Jason Taylor', 'Cristian de la Fuente']",['Marissa Jaret Winokur'],True,3,adjusted_score
+6,10,"['Cristian de la Fuente', 'Jason Taylor', 'Kristi Yamaguchi']",,False,3,adjusted_score
+7,1,"['Jeffrey Ross', 'Ted McGinley', 'Cloris Leachman']","['Jeffrey Ross', 'Ted McGinley']",True,3,adjusted_score
+7,2,"['Kim Kardashian', 'Cloris Leachman', 'Rocco DiSpirito']",['Kim Kardashian'],True,3,adjusted_score
+7,3,"['Cloris Leachman', 'Rocco DiSpirito', 'Toni Braxton']",,False,3,adjusted_score
+7,4,"['Rocco DiSpirito', 'Cloris Leachman', 'Maurice Greene']",['Rocco DiSpirito'],True,3,adjusted_score
+7,5,"['Toni Braxton', 'Cloris Leachman', 'Lance Bass']",['Toni Braxton'],True,3,adjusted_score
+7,6,"['Cloris Leachman', 'Maurice Greene', 'Cody Linley']",['Cloris Leachman'],True,3,adjusted_score
+7,7,"['Susan Lucci', 'Cody Linley', 'Warren Sapp']",['Susan Lucci'],True,3,adjusted_score
+7,8,"['Maurice Greene', 'Cody Linley', 'Lance Bass']",['Maurice Greene'],True,3,adjusted_score
+7,9,"['Cody Linley', 'Warren Sapp', 'Brooke Burke']",['Cody Linley'],True,3,adjusted_score
+7,10,"['Warren Sapp', 'Lance Bass', 'Brooke Burke']",,False,3,adjusted_score
+8,1,"['Steve Wozniak', 'Steve-O', 'Ty Murray']",,False,3,adjusted_score
+8,2,"['Steve-O', 'Belinda Carlisle', 'Steve Wozniak']",['Belinda Carlisle'],True,3,adjusted_score
+8,3,"['Steve Wozniak', 'Denise Richards', 'Steve-O']",['Denise Richards'],True,3,adjusted_score
+8,4,"['Steve Wozniak', 'Holly Madison', 'Steve-O']","['Holly Madison', 'Steve Wozniak']",True,3,adjusted_score
+8,5,"['Steve-O', 'David Alan Grier', 'Lawrence Taylor']",['David Alan Grier'],True,3,adjusted_score
+8,6,"['Steve-O', 'Ty Murray', 'Lawrence Taylor']",['Steve-O'],True,3,adjusted_score
+8,7,"['Lawrence Taylor', 'Ty Murray', 'Chuck Wicks']",['Lawrence Taylor'],True,3,adjusted_score
+8,8,"['Chuck Wicks', 'Melissa Rycroft', 'Ty Murray']",['Chuck Wicks'],True,3,adjusted_score
+8,9,"['Ty Murray', ""Lil' Kim"", 'Melissa Rycroft']","[""Lil' Kim""]",True,3,adjusted_score
+8,10,"['Ty Murray', 'Melissa Rycroft', 'Shawn Johnson']",['Ty Murray'],True,3,adjusted_score
+8,11,"['Melissa Rycroft', 'Gilles Marini', 'Shawn Johnson']",,False,3,adjusted_score
+9,1,"['Ashley Hamiliton', 'Macy Gray', 'Michael Irvin']","['Ashley Hamiliton', 'Macy Gray']",True,3,adjusted_score
+9,2,"['Kathy Ireland', 'Tom DeLay', 'Michael Irvin']",['Kathy Ireland'],True,3,adjusted_score
+9,3,"['Michael Irvin', 'Debi Mazar', 'Tom DeLay']",['Debi Mazar'],True,3,adjusted_score
+9,4,"['Michael Irvin', 'Chuck Liddell', 'Louie Vito']",['Chuck Liddell'],True,3,adjusted_score
+9,5,"['Natalie Coughlin', 'Michael Irvin', 'Louie Vito']",['Natalie Coughlin'],True,3,adjusted_score
+9,6,"['Melissa Joan Hart', 'Michael Irvin', 'Louie Vito']","['Louie Vito', 'Melissa Joan Hart']",True,3,adjusted_score
+9,7,"['Mark Dacascos', 'Michael Irvin', 'Aaron Carter']","['Mark Dacascos', 'Michael Irvin']",True,3,adjusted_score
+9,8,"['Aaron Carter', 'Kelly Osbourne', 'Donny Osmond']",['Aaron Carter'],True,3,adjusted_score
+9,9,"['Joanna Krupa', 'Donny Osmond', 'Kelly Osbourne']",['Joanna Krupa'],True,3,adjusted_score
+9,10,"['Kelly Osbourne', 'Donny Osmond', 'Mya']",,False,3,adjusted_score
+10,1,"['Buzz Aldrin', 'Kate Gosselin', 'Aiden Turner']",,False,3,adjusted_score
+10,2,"['Buzz Aldrin', 'Kate Gosselin', 'Shannen Doherty']",['Shannen Doherty'],True,3,adjusted_score
+10,3,"['Buzz Aldrin', 'Kate Gosselin', 'Aiden Turner']",['Buzz Aldrin'],True,3,adjusted_score
+10,4,"['Aiden Turner', 'Kate Gosselin', 'Niecy Nash']",['Aiden Turner'],True,3,adjusted_score
+10,5,"['Kate Gosselin', 'Niecy Nash', 'Chad Ochocinco']",['Kate Gosselin'],True,3,adjusted_score
+10,6,"['Jake Pavelka', 'Niecy Nash', 'Evan Lysacek']",['Jake Pavelka'],True,3,adjusted_score
+10,7,"['Niecy Nash', 'Pamela Anderson', 'Erin Andrews']",['Pamela Anderson'],True,3,adjusted_score
+10,8,"['Niecy Nash', 'Chad Ochocinco', 'Erin Andrews']",['Niecy Nash'],True,3,adjusted_score
+10,9,"['Chad Ochocinco', 'Erin Andrews', 'Evan Lysacek']",['Chad Ochocinco'],True,3,adjusted_score
+10,10,"['Erin Andrews', 'Evan Lysacek', 'Nicole Scherzinger']",,False,3,adjusted_score
+11,1,"['David Hasselhoff', 'Margaret Cho', 'The Situation']",['David Hasselhoff'],True,3,adjusted_score
+11,2,"['Michael Bolton', 'Margaret Cho', 'The Situation']",['Michael Bolton'],True,3,adjusted_score
+11,3,"['Margaret Cho', 'Bristol Palin', 'The Situation']",['Margaret Cho'],True,3,adjusted_score
+11,4,"['The Situation', 'Bristol Palin', 'Florence Henderson']",['The Situation'],True,3,adjusted_score
+11,5,"['Bristol Palin', 'Florence Henderson', 'Kyle Massey']",['Florence Henderson'],True,3,adjusted_score
+11,6,"['Kurt Warner', 'Bristol Palin', 'Audrina Patridge']",['Audrina Patridge'],True,3,adjusted_score
+11,7,"['Bristol Palin', 'Rick Fox', 'Kyle Massey']",['Rick Fox'],True,3,adjusted_score
+11,8,"['Kurt Warner', 'Bristol Palin', 'Kyle Massey']",['Kurt Warner'],True,3,adjusted_score
+11,9,"['Bristol Palin', 'Brandy', 'Kyle Massey']",['Brandy'],True,3,adjusted_score
+11,10,"['Bristol Palin', 'Kyle Massey', 'Jennifer Grey']",,False,3,adjusted_score
+12,1,"['Mike Catherwood', 'Wendy Williams', 'Sugar Ray Leonard']",,False,3,adjusted_score
+12,2,"['Mike Catherwood', 'Wendy Williams', 'Sugar Ray Leonard']",['Mike Catherwood'],True,3,adjusted_score
+12,3,"['Wendy Williams', 'Sugar Ray Leonard', 'Kirstie Alley']",['Wendy Williams'],True,3,adjusted_score
+12,4,"['Kendra Wilkinson', 'Sugar Ray Leonard', 'Petra Nemcova']",['Sugar Ray Leonard'],True,3,adjusted_score
+12,5,"['Petra Nemcova', 'Kendra Wilkinson', 'Ralph Macchio']",['Petra Nemcova'],True,3,adjusted_score
+12,6,"['Chris Jericho', 'Ralph Macchio', 'Kendra Wilkinson']",['Chris Jericho'],True,3,adjusted_score
+12,7,"['Kendra Wilkinson', 'Kirstie Alley', 'Romeo']",['Kendra Wilkinson'],True,3,adjusted_score
+12,8,"['Ralph Macchio', 'Romeo', 'Kirstie Alley']",['Romeo'],True,3,adjusted_score
+12,9,"['Ralph Macchio', 'Kirstie Alley', 'Hines Ward']",['Ralph Macchio'],True,3,adjusted_score
+12,10,"['Kirstie Alley', 'Hines Ward', 'Chelsea Kane']",,False,3,adjusted_score
+13,1,"['Metta World Peace (Ron)', 'Elisabetta Canalis', 'Chaz Bono']",['Metta World Peace (Ron)'],True,3,adjusted_score
+13,2,"['Chaz Bono', 'Carson Kressley', 'Elisabetta Canalis']",['Elisabetta Canalis'],True,3,adjusted_score
+13,3,"['Chaz Bono', 'Kristin Cavallari', 'Nancy Grace']",['Kristin Cavallari'],True,3,adjusted_score
+13,4,"['Chynna Phillips', 'Carson Kressley', 'Chaz Bono']",['Chynna Phillips'],True,3,adjusted_score
+13,5,"['Carson Kressley', 'Chaz Bono', 'Nancy Grace']",['Carson Kressley'],True,3,adjusted_score
+13,6,"['Chaz Bono', 'Hope Solo', 'Nancy Grace']",['Chaz Bono'],True,3,adjusted_score
+13,7,"['David Arquette', 'Nancy Grace', 'Hope Solo']",['David Arquette'],True,3,adjusted_score
+13,8,"['Nancy Grace', 'Hope Solo', 'Ricki Lake']",['Nancy Grace'],True,3,adjusted_score
+13,9,"['Hope Solo', 'J.R. Martinez', 'Ricki Lake']",['Hope Solo'],True,3,adjusted_score
+13,10,"['Ricki Lake', 'J.R. Martinez', 'Rob Kardashian']",,False,3,adjusted_score
+14,1,"['Martina Navratilova', 'Melissa Gilbert', 'Gavin DeGraw']",,False,3,adjusted_score
+14,2,"['Martina Navratilova', 'Gladys Knight', 'Melissa Gilbert']",['Martina Navratilova'],True,3,adjusted_score
+14,3,"['Jack Wagner', 'Gladys Knight', 'Melissa Gilbert']",['Jack Wagner'],True,3,adjusted_score
+14,4,"['Sherri Sheperd', 'Gladys Knight', 'Melissa Gilbert']",['Sherri Sheperd'],True,3,adjusted_score
+14,5,"['Gavin DeGraw', 'Melissa Gilbert', 'Gladys Knight']",['Gavin DeGraw'],True,3,adjusted_score
+14,6,"['Gladys Knight', 'Melissa Gilbert', 'Roshon Fegan']",['Gladys Knight'],True,3,adjusted_score
+14,7,"['Melissa Gilbert', 'Jaleel White', 'Roshon Fegan']",['Jaleel White'],True,3,adjusted_score
+14,8,"['Melissa Gilbert', 'Maria Menounos', 'Roshon Fegan']","['Melissa Gilbert', 'Roshon Fegan']",True,3,adjusted_score
+14,9,"['Maria Menounos', 'Donald Driver', 'Katherine Jenkins']",['Maria Menounos'],True,3,adjusted_score
+14,10,"['Donald Driver', 'William Levy', 'Katherine Jenkins']",,False,3,adjusted_score
+15,1,"['Pamela Anderson', 'Bristol Palin', 'Kirstie Alley']",['Pamela Anderson'],True,3,adjusted_score
+15,2,"['Bristol Palin', 'Joey Fatone', 'Kirstie Alley']",['Joey Fatone'],True,3,adjusted_score
+15,3,"['Drew Lachey', 'Bristol Palin', 'Helio Castroneves']","['Drew Lachey', 'Helio Castroneves']",True,3,adjusted_score
+15,4,"['Kirstie Alley', 'Bristol Palin', 'Emmitt Smith']",['Bristol Palin'],True,3,adjusted_score
+15,5,"['Kirstie Alley', 'Kelly Monaco', 'Emmitt Smith']",,False,3,adjusted_score
+15,6,"['Emmitt Smith', 'Kirstie Alley', 'Kelly Monaco']",['Sabrina Bryan'],False,3,adjusted_score
+15,7,"['Kirstie Alley', 'Emmitt Smith', 'Gilles Marini']",,False,3,adjusted_score
+15,8,"['Kirstie Alley', 'Gilles Marini', 'Emmitt Smith']","['Gilles Marini', 'Kirstie Alley']",True,3,adjusted_score
+15,9,"['Emmitt Smith', 'Kelly Monaco', 'Apolo Anton Ohno']","['Apolo Anton Ohno', 'Emmitt Smith']",True,3,adjusted_score
+15,10,"['Shawn Johnson', 'Kelly Monaco', 'Melissa Rycroft']",,False,3,adjusted_score
+16,1,"['D. L. Hughley', 'Wynonna Judd', 'Andy Dick']",,False,3,adjusted_score
+16,2,"['Dorothy Hamill', 'D. L. Hughley', 'Wynonna Judd']",,False,3,adjusted_score
+16,3,"['Wynonna Judd', 'D. L. Hughley', 'Andy Dick']",['Wynonna Judd'],True,3,adjusted_score
+16,4,"['Lisa Vanderpump', 'Victor Ortiz', 'D. L. Hughley']",['Lisa Vanderpump'],True,3,adjusted_score
+16,5,"['D. L. Hughley', 'Andy Dick', 'Victor Ortiz']",['D. L. Hughley'],True,3,adjusted_score
+16,6,"['Victor Ortiz', 'Andy Dick', 'Sean Lowe']",['Victor Ortiz'],True,3,adjusted_score
+16,7,"['Andy Dick', 'Sean Lowe', 'Ingo Rademacher']",['Andy Dick'],True,3,adjusted_score
+16,8,"['Sean Lowe', 'Ingo Rademacher', 'Jacoby Jones']",['Sean Lowe'],True,3,adjusted_score
+16,9,"['Ingo Rademacher', 'Jacoby Jones', 'Zendaya']",['Ingo Rademacher'],True,3,adjusted_score
+16,10,"['Alexandra Raisman', 'Jacoby Jones', 'Zendaya']",['Alexandra Raisman'],True,3,adjusted_score
+17,1,"['Bill Nye', 'Keyshawn Johnson', 'Valerie Harper']",,False,3,adjusted_score
+17,2,"['Keyshawn Johnson', 'Bill Nye', 'Valerie Harper']",['Keyshawn Johnson'],True,3,adjusted_score
+17,3,"['Bill Nye', 'Valerie Harper', 'Bill Engvall']",['Bill Nye'],True,3,adjusted_score
+17,4,"['Valerie Harper', 'Bill Engvall', 'Brant Daugherty']",['Valerie Harper'],True,3,adjusted_score
+17,5,"['Leah Remini', 'Bill Engvall', 'Christina Milian']",['Christina Milian'],True,3,adjusted_score
+17,6,"['Bill Engvall', 'Leah Remini', 'Jack Osbourne']",,False,3,adjusted_score
+17,7,"['Bill Engvall', 'Nicole ""Snooki"" Polizzi', 'Leah Remini']","['Nicole ""Snooki"" Polizzi']",True,3,adjusted_score
+17,8,"['Bill Engvall', 'Brant Daugherty', 'Elizabeth Berkley Lauren']",['Brant Daugherty'],True,3,adjusted_score
+17,9,"['Bill Engvall', 'Elizabeth Berkley Lauren', 'Leah Remini']",['Elizabeth Berkley Lauren'],True,3,adjusted_score
+17,10,"['Leah Remini', 'Bill Engvall', 'Jack Osbourne']",['Leah Remini'],True,3,adjusted_score
+17,11,"['Bill Engvall', 'Jack Osbourne', 'Corbin Bleu']",['Bill Engvall'],True,3,adjusted_score
+18,1,"['Billy Dee Williams', 'Diana Nyad', 'Sean Avery']",,False,3,adjusted_score
+18,2,"['Billy Dee Williams', 'Sean Avery', 'Drew Carey']",['Sean Avery'],True,3,adjusted_score
+18,3,"['Drew Carey', 'NeNe Leakes', 'Candace Cameron Bure']",,False,3,adjusted_score
+18,4,"['Candace Cameron Bure', 'Drew Carey', 'NeNe Leakes']",,False,3,adjusted_score
+18,5,"['Drew Carey', 'Cody Simpson', 'Candace Cameron Bure']",['Cody Simpson'],True,3,adjusted_score
+18,6,"['Drew Carey', 'Candace Cameron Bure', 'NeNe Leakes']",['Drew Carey'],True,3,adjusted_score
+18,7,"['NeNe Leakes', 'Candace Cameron Bure', 'James Maslow']",['NeNe Leakes'],True,3,adjusted_score
+18,8,"['Candace Cameron Bure', 'James Maslow', 'Danica McKellar']",['Danica McKellar'],True,3,adjusted_score
+18,9,"['Candace Cameron Bure', 'Charlie White', 'James Maslow']",['Charlie White'],True,3,adjusted_score
+18,10,"['Candace Cameron Bure', 'James Maslow', 'Amy Purdy']",['James Maslow'],True,3,adjusted_score
+19,1,"['Lolo Jones', 'Betsey Johnson', 'Michael Waltrip']",['Lolo Jones'],True,3,adjusted_score
+19,2,"['Tavis Smiley', 'Michael Waltrip', 'Betsey Johnson']",['Tavis Smiley'],True,3,adjusted_score
+19,3,"['Randy Couture', 'Michael Waltrip', 'Betsey Johnson']",['Randy Couture'],True,3,adjusted_score
+19,4,"['Michael Waltrip', 'Betsey Johnson', 'Jonathan Bennett']",['Betsey Johnson'],True,3,adjusted_score
+19,5,"['Michael Waltrip', 'Tommy Chong', 'Jonathan Bennett']",,False,3,adjusted_score
+19,6,"['Tommy Chong', 'Antonio Sabato Jr.', 'Michael Waltrip']",['Jonathan Bennett'],False,3,adjusted_score
+19,7,"['Michael Waltrip', 'Antonio Sabato Jr.', 'Tommy Chong']",['Antonio Sabato Jr.'],True,3,adjusted_score
+19,8,"['Michael Waltrip', 'Tommy Chong', 'Lea Thompson']",['Michael Waltrip'],True,3,adjusted_score
+19,9,"['Tommy Chong', 'Lea Thompson', 'Bethany Mota']",['Lea Thompson'],True,3,adjusted_score
+19,10,"['Tommy Chong', 'Bethany Mota', 'Sadie Robertson']",['Tommy Chong'],True,3,adjusted_score
+19,11,"['Bethany Mota', 'Sadie Robertson', 'Janel Parrish']",['Bethany Mota'],True,3,adjusted_score
+20,1,"['Charlotte McKinney', 'Redfoo', 'Patti LaBelle']",,False,3,adjusted_score
+20,2,"['Chris Soules', 'Charlotte McKinney', 'Redfoo']",['Redfoo'],True,3,adjusted_score
+20,3,"['Charlotte McKinney', 'Patti LaBelle', 'Michael Sam']",['Charlotte McKinney'],True,3,adjusted_score
+20,4,"['Michael Sam', 'Chris Soules', 'Suzanne Somers']",['Michael Sam'],True,3,adjusted_score
+20,5,"['Robert Herjavec', 'Suzanne Somers', 'Chris Soules']",['Suzanne Somers'],True,3,adjusted_score
+20,6,"['Patti LaBelle', 'Robert Herjavec', 'Noah Galloway']",['Patti LaBelle'],True,3,adjusted_score
+20,7,"['Robert Herjavec', 'Chris Soules', 'Willow Shields']",['Willow Shields'],True,3,adjusted_score
+20,8,"['Robert Herjavec', 'Chris Soules', 'Noah Galloway']","['Chris Soules', 'Robert Herjavec']",True,3,adjusted_score
+20,9,"['Noah Galloway', 'Nastia Liukin', 'Rumer Willis']",['Nastia Liukin'],True,3,adjusted_score
+20,10,"['Noah Galloway', 'Rumer Willis', 'Riker Lynch']",,False,3,adjusted_score
+21,1,"['Chaka Khan', 'Kim Zolciak-Biermann', 'Paula Deen']",,False,3,adjusted_score
+21,2,"['Chaka Khan', 'Victor Espinoza', 'Gary Busey']","['Chaka Khan', 'Victor Espinoza']",True,3,adjusted_score
+21,3,"['Paula Deen', 'Gary Busey', 'Andy Grammer']",,False,3,adjusted_score
+21,4,"['Gary Busey', 'Paula Deen', 'Alek Skarlatos']",['Gary Busey'],True,3,adjusted_score
+21,5,"['Paula Deen', 'Alek Skarlatos', 'Tamar Braxton']",,False,3,adjusted_score
+21,6,"['Paula Deen', 'Alek Skarlatos', 'Alexa PenaVega']",['Paula Deen'],True,3,adjusted_score
+21,7,"['Alek Skarlatos', 'Tamar Braxton', 'Hayes Grier']",['Hayes Grier'],True,3,adjusted_score
+21,8,"['Andy Grammer', 'Alek Skarlatos', 'Tamar Braxton']",['Andy Grammer'],True,3,adjusted_score
+21,9,"['Tamar Braxton', 'Alek Skarlatos', 'Alexa PenaVega']",['Alexa PenaVega'],True,3,adjusted_score
+21,10,"['Alek Skarlatos', 'Nick Carter', 'Carlos PenaVega']",,False,3,adjusted_score
+21,11,"['Alek Skarlatos', 'Carlos PenaVega', 'Nick Carter']",['Carlos PenaVega'],True,3,adjusted_score
+22,1,"['Geraldo Rivera', 'Mischa Barton', 'Doug Flutie']",,False,3,adjusted_score
+22,2,"['Geraldo Rivera', 'Mischa Barton', 'Doug Flutie']",['Geraldo Rivera'],True,3,adjusted_score
+22,3,"['Mischa Barton', 'Doug Flutie', 'Von Miller']",['Mischa Barton'],True,3,adjusted_score
+22,4,"['Marla Maples', 'Doug Flutie', 'Jodie Sweetin']",['Marla Maples'],True,3,adjusted_score
+22,5,"['Antonio Brown', 'Doug Flutie', 'Kim Fields']",,False,3,adjusted_score
+22,6,"['Doug Flutie', 'Von Miller', 'Kim Fields']",['Doug Flutie'],True,3,adjusted_score
+22,7,"['Kim Fields', 'Von Miller', 'Jodie Sweetin']","['Kim Fields', 'Von Miller']",True,3,adjusted_score
+22,8,"['Wanya Morris', 'Antonio Brown', 'Jodie Sweetin']",['Jodie Sweetin'],True,3,adjusted_score
+22,9,"['Antonio Brown', 'Ginger Zee', 'Wanya Morris']","['Antonio Brown', 'Wanya Morris']",True,3,adjusted_score
+22,10,"['Ginger Zee', 'Nyle DiMarco', 'Paige VanZant']",,False,3,adjusted_score
+23,1,"['Rick Perry', 'Jake T. Austin', 'Maureen McCormick']",,False,3,adjusted_score
+23,2,"['Rick Perry', 'Jake T. Austin', 'Amber Rose']",['Jake T. Austin'],True,3,adjusted_score
+23,3,"['Rick Perry', 'Vanilla Ice', 'Amber Rose']",['Rick Perry'],True,3,adjusted_score
+23,4,"['Babyface', 'Vanilla Ice', 'Ryan Lochte']","['Babyface', 'Vanilla Ice']",True,3,adjusted_score
+23,5,"['Amber Rose', 'Ryan Lochte', 'Maureen McCormick']",,False,3,adjusted_score
+23,6,"['Amber Rose', 'Ryan Lochte', 'Maureen McCormick']",['Amber Rose'],True,3,adjusted_score
+23,7,"['Maureen McCormick', 'Marilu Henner', 'Ryan Lochte']",['Maureen McCormick'],True,3,adjusted_score
+23,8,"['Marilu Henner', 'Ryan Lochte', 'Terra Jole']",['Ryan Lochte'],True,3,adjusted_score
+23,9,"['Marilu Henner', 'James Hinchcliffe', 'Calvin Johnson Jr.']",['Marilu Henner'],True,3,adjusted_score
+23,10,"['Calvin Johnson Jr.', 'Jana Kramer', 'Terra Jole']",['Terra Jole'],True,3,adjusted_score
+23,11,"['Jana Kramer', 'Calvin Johnson Jr.', 'James Hinchcliffe']",['Jana Kramer'],True,3,adjusted_score
+24,1,"['Chris Kattan', 'Mr. T', 'Charo']",,False,3,adjusted_score
+24,2,"['Chris Kattan', 'Mr. T', 'Charo']",['Chris Kattan'],True,3,adjusted_score
+24,3,"['Charo', 'Mr. T', 'Bonner Bolton']",['Charo'],True,3,adjusted_score
+24,4,"['Mr. T', 'Nick Viall', 'Erika Jayne']",['Mr. T'],True,3,adjusted_score
+24,5,"['David Ross', 'Erika Jayne', 'Bonner Bolton']",['Erika Jayne'],True,3,adjusted_score
+24,6,"['Nick Viall', 'David Ross', 'Bonner Bolton']",['Heather Morris'],False,3,adjusted_score
+24,7,"['Nick Viall', 'Bonner Bolton', 'David Ross']","['Nancy Kerrigan', 'Nick Viall']",True,3,adjusted_score
+24,8,"['Bonner Bolton', 'David Ross', 'Simone Biles']",['Bonner Bolton'],True,3,adjusted_score
+24,9,"['David Ross', 'Simone Biles', 'Normani']",['Simone Biles'],True,3,adjusted_score
+24,10,"['David Ross', 'Normani', 'Rashad Jennings']",,False,3,adjusted_score
+25,1,"['Barbara Corcoran', 'Terrell Owens', 'Drew Scott']",,False,3,adjusted_score
+25,2,"['Barbara Corcoran', 'Debbie Gibson', 'Nick Lachey']","['Barbara Corcoran', 'Debbie Gibson']",True,3,adjusted_score
+25,3,"['Sasha Pieterse', 'Nick Lachey', 'Derek Fisher']",,False,3,adjusted_score
+25,4,"['Derek Fisher', 'Nick Lachey', 'Sasha Pieterse']",['Derek Fisher'],True,3,adjusted_score
+25,5,"['Sasha Pieterse', 'Nick Lachey', 'Vanessa Lachey']",['Sasha Pieterse'],True,3,adjusted_score
+25,6,"['Nick Lachey', 'Drew Scott', 'Victoria Arlen']",['Nick Lachey'],True,3,adjusted_score
+25,7,"['Nikki Bella', 'Terrell Owens', 'Vanessa Lachey']","['Nikki Bella', 'Vanessa Lachey']",True,3,adjusted_score
+25,8,"['Drew Scott', 'Terrell Owens', 'Victoria Arlen']",['Terrell Owens'],True,3,adjusted_score
+25,9,"['Drew Scott', 'Victoria Arlen', 'Frankie Muniz']",['Victoria Arlen'],True,3,adjusted_score
+25,10,"['Drew Scott', 'Frankie Muniz', 'Lindsey Stirling']",['Drew Scott'],True,3,adjusted_score
+26,1,"['Kareem Abdul-Jabbar', 'Johnny Damon', 'Jamie Anderson']","['Jamie Anderson', 'Johnny Damon']",True,3,adjusted_score
+26,2,"['Kareem Abdul-Jabbar', 'Jennie Finch Daigle', 'Arike Ogunbowale']","['Arike Ogunbowale', 'Kareem Abdul-Jabbar']",True,3,adjusted_score
+26,3,"['Jennie Finch Daigle', 'Chris Mazdzer', 'Mirai Nagasu']","['Chris Mazdzer', 'Jennie Finch Daigle', 'Mirai Nagasu']",True,3,adjusted_score
+26,4,"['Tonya Harding', 'Josh Norman', 'Adam Rippon']",,False,3,adjusted_score
+27,1,"['Joe Amabile', 'Nikki Glaser', 'Danelle Umstead']",['Nikki Glaser'],True,3,adjusted_score
+27,2,"['Joe Amabile', 'Danelle Umstead', 'Bobby Bones']",['Danelle Umstead'],True,3,adjusted_score
+27,3,"['Joe Amabile', 'Nancy McKeon', 'John Schneider']",['Nancy McKeon'],True,3,adjusted_score
+27,4,"['Joe Amabile', 'Tinashe', 'Bobby Bones']",['Tinashe'],True,3,adjusted_score
+27,5,"['Joe Amabile', 'Bobby Bones', 'John Schneider']",,False,3,adjusted_score
+27,6,"['Joe Amabile', 'John Schneider', 'Mary Lou Retton']",['Mary Lou Retton'],True,3,adjusted_score
+27,7,"['Joe Amabile', 'DeMarcus Ware', 'John Schneider']","['DeMarcus Ware', 'John Schneider']",True,3,adjusted_score
+27,8,"['Joe Amabile', 'Bobby Bones', 'Juan Pablo Di Pace']","['Joe Amabile', 'Juan Pablo Di Pace']",True,3,adjusted_score
+27,9,"['Alexis Ren', 'Bobby Bones', 'Milo Manheim']",,False,3,adjusted_score
+28,1,"['Lamar Odom', 'Sean Spicer', 'Ray Lewis']",,False,3,adjusted_score
+28,2,"['Lamar Odom', 'Ray Lewis', 'Mary Wilson']",['Mary Wilson'],True,3,adjusted_score
+28,3,"['Lamar Odom', 'Sean Spicer', 'Karamo Brown']",,False,3,adjusted_score
+28,4,"['Lamar Odom', 'Sean Spicer', 'Kate Flannery']",['Lamar Odom'],True,3,adjusted_score
+28,5,"['Sean Spicer', 'Karamo Brown', 'Lauren Alaina']",,False,3,adjusted_score
+28,6,"['Sean Spicer', 'Sailor Brinkley-Cook', 'Kate Flannery']",['Sailor Brinkley-Cook'],True,3,adjusted_score
+28,7,"['Sean Spicer', 'Kate Flannery', 'Karamo Brown']",['Karamo Brown'],True,3,adjusted_score
+28,8,"['Sean Spicer', 'Lauren Alaina', 'Kate Flannery']",['Kate Flannery'],True,3,adjusted_score
+28,9,"['Sean Spicer', 'Lauren Alaina', 'James Van Der Beek']",['Sean Spicer'],True,3,adjusted_score
+28,10,"['James Van Der Beek', 'Lauren Alaina', 'Hannah Brown']",['James Van Der Beek'],True,3,adjusted_score
+28,11,"['Lauren Alaina', 'Hannah Brown', 'Kel Mitchell']",,False,3,adjusted_score
+29,1,"['Carole Baskin', 'Charles Oakley', 'Chrishell Stause']",,False,3,adjusted_score
+29,2,"['Charles Oakley', 'Carole Baskin', 'Skai Jackson']",['Charles Oakley'],True,3,adjusted_score
+29,3,"['Carole Baskin', 'Anne Heche', 'Jesse Metcalfe']",['Carole Baskin'],True,3,adjusted_score
+29,4,"['Jesse Metcalfe', 'Anne Heche', 'Nelly']",['Anne Heche'],True,3,adjusted_score
+29,5,"['Jesse Metcalfe', 'Chrishell Stause', 'Veron Davis']",['Jesse Metcalfe'],True,3,adjusted_score
+29,6,"['Veron Davis', 'Skai Jackson', 'Nelly']",['Veron Davis'],True,3,adjusted_score
+29,7,"['Monica Aldama', 'Jeannie Mai', 'Nelly']",['Monica Aldama'],True,3,adjusted_score
+29,8,"['Nelly', 'Chrishell Stause', 'AJ McLean']",['Chrishell Stause'],True,3,adjusted_score
+29,9,"['Nelly', 'AJ McLean', 'Skai Jackson']",['AJ McLean'],True,3,adjusted_score
+29,10,"['Skai Jackson', 'Nelly', 'Johnny Weir']","['Johnny Weir', 'Skai Jackson']",True,3,adjusted_score
+29,11,"['Nelly', 'Justina Machado', 'Kaitlyn Bristowe']",,False,3,adjusted_score
+30,1,"['Martin Kove', 'Brian Austin Green', 'Iman Shumpert']",,False,3,adjusted_score
+30,2,"['Martin Kove', 'Brian Austin Green', 'Matt James']",['Martin Kove'],True,3,adjusted_score
+30,3,"['Cody Rigsby', 'Christine Chiu', 'Brian Austin Green']",['Christine Chiu'],True,3,adjusted_score
+30,4,"['Brian Austin Green', 'Matt James', 'Kenya Moore']","['Brian Austin Green', 'Matt James']",True,3,adjusted_score
+30,5,"['Melanie C', 'Cody Rigsby', 'Mike ""The Miz"" Mizanin']",['Melanie C'],True,3,adjusted_score
+30,6,"['Kenya Moore', 'Mike ""The Miz"" Mizanin', 'Cody Rigsby']",['Kenya Moore'],True,3,adjusted_score
+30,7,"['Mike ""The Miz"" Mizanin', 'Cody Rigsby', 'Suni Lee']","['Mike ""The Miz"" Mizanin']",True,3,adjusted_score
+30,8,"['Jimmie Allen', 'Olivia Jade', 'Cody Rigsby']","['Jimmie Allen', 'Olivia Jade']",True,3,adjusted_score
+30,9,"['Melora Hardin', 'Suni Lee', 'Cody Rigsby']","['Melora Hardin', 'Suni Lee']",True,3,adjusted_score
+30,10,"['Cody Rigsby', 'Amanda Kloots', 'Iman Shumpert']",,False,3,adjusted_score
+31,1,"['Jason Lewis', 'Vinny Guadagnino', 'Cheryl Ladd']",['Jason Lewis'],True,3,adjusted_score
+31,2,"['Cheryl Ladd', 'Teresa Giudice', 'Vinny Guadagnino']",['Teresa Giudice'],True,3,adjusted_score
+31,3,"['Vinny Guadagnino', 'Cheryl Ladd', 'Sam Champion']",['Cheryl Ladd'],True,3,adjusted_score
+31,4,"['Sam Champion', 'Vinny Guadagnino', 'Joseph Baena']",['Sam Champion'],True,3,adjusted_score
+31,5,"['Vinny Guadagnino', 'Joseph Baena', 'Daniel Durant']",['Joseph Baena'],True,3,adjusted_score
+31,6,"['Vinny Guadagnino', 'Jessie James Decker', 'Trevor Donovan']",['Jessie James Decker'],True,3,adjusted_score
+31,7,"['Vinny Guadagnino', 'Jordin Sparks', ""Heidi D'Amelio""]",['Jordin Sparks'],True,3,adjusted_score
+31,8,"['Vinny Guadagnino', ""Heidi D'Amelio"", 'Daniel Durant']","[""Heidi D'Amelio"", 'Vinny Guadagnino']",True,3,adjusted_score
+31,9,"['Trevor Donovan', 'Daniel Durant', 'Shangela']","['Daniel Durant', 'Trevor Donovan']",True,3,adjusted_score
+31,10,"['Shangela', 'Wayne Brady', 'Gabby Windey']",,False,3,adjusted_score
+32,1,"['Matt Walsh', 'Tyson Beckford', 'Harry Jowsey']",['Matt Walsh'],True,3,adjusted_score
+32,2,"['Mauricio Umansky', 'Jamie Lynn Spears', 'Tyson Beckford']",['Jamie Lynn Spears'],True,3,adjusted_score
+32,3,"['Tyson Beckford', 'Mauricio Umansky', 'Adrian Peterson']",['Tyson Beckford'],True,3,adjusted_score
+32,4,"['Barry Williams', 'Alyson Hannigan', 'Mauricio Umansky']",['Adrian Peterson'],False,3,adjusted_score
+32,5,"['Harry Jowsey', 'Barry Williams', 'Mira Sorvino']",['Mira Sorvino'],True,3,adjusted_score
+32,6,"['Harry Jowsey', 'Mauricio Umansky', 'Barry Williams']",['Mauricio Umansky'],True,3,adjusted_score
+32,7,"['Harry Jowsey', 'Barry Williams', 'Lele Pons']",['Lele Pons'],True,3,adjusted_score
+32,8,"['Harry Jowsey', 'Barry Williams', 'Alyson Hannigan']",['Barry Williams'],True,3,adjusted_score
+32,9,"['Harry Jowsey', 'Alyson Hannigan', 'Ariana Madix']",['Harry Jowsey'],True,3,adjusted_score
+32,10,"['Alyson Hannigan', 'Jason Mraz', 'Ariana Madix']",,False,3,adjusted_score
+32,11,"['Alyson Hannigan', 'Ariana Madix', 'Charity Lawson']",,False,3,adjusted_score
+33,1,"['Eric Roberts', 'Reginald VelJohnson', 'Tori Spelling']",,False,3,adjusted_score
+33,2,"['Reginald VelJohnson', 'Eric Roberts', 'Tori Spelling']","['Anna Delvey', 'Tori Spelling']",True,3,adjusted_score
+33,3,"['Reginald VelJohnson', 'Eric Roberts', 'Dwight Howard\xa0']","['Eric Roberts', 'Reginald VelJohnson']",True,3,adjusted_score
+33,4,"['Dwight Howard\xa0', 'Phaedra Parks', 'Brooks Nader']",['Brooks Nader'],True,3,adjusted_score
+33,5,"['Dwight Howard\xa0', 'Phaedra Parks', 'Stephen Nedoroscik']",['Phaedra Parks'],True,3,adjusted_score
+33,6,"['Ilona Maher', 'Danny Amendola', 'Stephen Nedoroscik']",['Jenn Tran'],False,3,adjusted_score
+33,7,"['Dwight Howard\xa0', 'Danny Amendola', 'Ilona Maher']",['Dwight Howard\xa0'],True,3,adjusted_score
+33,8,"['Danny Amendola', 'Stephen Nedoroscik', 'Ilona Maher']",,False,3,adjusted_score
+33,9,"['Danny Amendola', 'Ilona Maher', 'Stephen Nedoroscik']",,False,3,adjusted_score
+34,1,"['Corey Feldman', 'Andy Richter', 'Baron Davis']",,False,3,adjusted_score
+34,2,"['Corey Feldman', 'Andy Richter', 'Baron Davis']","['Baron Davis', 'Corey Feldman']",True,3,adjusted_score
+34,3,"['Andy Richter', 'Lauren Jauregui', 'Jen Affleck']",['Lauren Jauregui'],True,3,adjusted_score
+34,4,"['Andy Richter', 'Scott Hoying', 'Danielle Fishel']",['Hilaria Baldwin'],False,3,adjusted_score
+34,5,"['Andy Richter', 'Jen Affleck', 'Scott Hoying']",,False,3,adjusted_score
+34,6,"['Andy Richter', 'Scott Hoying', 'Jen Affleck']",['Scott Hoying'],True,3,adjusted_score
+34,7,"['Andy Richter', 'Elaine Hendrix', 'Jen Affleck']",['Jen Affleck'],True,3,adjusted_score
+34,8,"['Andy Richter', 'Danielle Fishel', 'Elaine Hendrix']",['Danielle Fishel'],True,3,adjusted_score
+34,9,"['Andy Richter', 'Elaine Hendrix', 'Dylan Efron']",['Andy Richter'],True,3,adjusted_score
+34,10,"['Elaine Hendrix', 'Dylan Efron', 'Whitney Leavitt']",['Whitney Leavitt'],True,3,adjusted_score
+34,11,"['Elaine Hendrix', 'Dylan Efron', 'Jordan Chiles']",,False,3,adjusted_score
