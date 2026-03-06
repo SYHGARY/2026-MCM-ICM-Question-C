@@ -60,6 +60,8 @@ Prerequisites\
 Python 3.8+\
 Required packages: numpy, pandas, scipy, statsmodels, matplotlib, seaborn, scikit-learn
 
+
+
 # 解码舞蹈：基于逆优化的隐藏粉丝投票估计与《与星共舞》公平评分机制设计
 &emsp;本仓库包含论文 《解码舞蹈：基于逆优化的隐藏粉丝投票估计与〈与星共舞〉公平评分机制设计》的代码和补充材料，该论文提交至2026年美国大学生数学建模竞赛（MCM）。
 
