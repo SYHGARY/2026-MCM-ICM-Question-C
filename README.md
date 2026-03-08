@@ -1,5 +1,11 @@
 # Decoding the Dance: Inverse Optimization for Hidden Fan Votes and Fairer Scoring Mechanisms in Dancing with the Stars
-  This repository contains the code and supplementary materials for the paper "Decoding the Dance: An Inverse Optimization Approach to Estimating Hidden Fan Votes and Designing Fairer Scoring Mechanisms in Dancing with the Stars" , submitted to the 2026 Mathematical Contest in Modeling (MCM).
+
+&emsp;![1](https://img.shields.io/badge/language-python-blue.svg)
+![2](https://img.shields.io/badge/license-NonCommercial--NoticeRequired-red)
+
+&emsp;This repository contains the code and supplementary materials for the paper "Decoding the Dance: An Inverse Optimization Approach to Estimating Hidden Fan Votes and Designing Fairer Scoring Mechanisms in Dancing with the Stars" , submitted to the 2026 Mathematical Contest in Modeling (MCM).
+
+---
 
 ## 📖 Overview
 &emsp;Dancing with the Stars (DWTS) combines judges' scores with undisclosed fan votes to determine eliminations, often sparking controversy when popular but weak contestants advance. Since fan vote totals are never released, evaluating the fairness of the scoring system is a fundamental inference challenge.\
